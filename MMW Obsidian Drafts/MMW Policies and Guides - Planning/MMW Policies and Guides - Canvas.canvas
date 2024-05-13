@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"94656d6e09f1a88e","type":"group","x":-760,"y":-240,"width":2000,"height":960,"label":"Wiki Style Sources"},
+		{"id":"2fe59b37490c6343","x":1322,"y":-873,"width":400,"height":400,"type":"file","file":"MMW Obsidian Drafts/MMW Policies and Guides - Planning/Structure of the policies.md"},
+		{"id":"74419efcf4fd381f","type":"text","text":"# MMW Policies and Guidelines","x":1060,"y":-1280,"width":288,"height":128},
+		{"id":"1189a5de25523903","type":"text","text":"### Sources","x":147,"y":-560,"width":147,"height":73},
+		{"id":"3bff085df42d4f7e","type":"text","text":"## MMW Manual of Style","x":102,"y":-880,"width":319,"height":80},
+		{"id":"f9b913fff373522a","type":"link","url":"https://github.com/ohmyzsh/ohmyzsh/wiki/Wiki-Style-Guide","x":-740,"y":-200,"width":420,"height":900},
+		{"id":"1ec9880b31596391","type":"link","url":"https://en.uesp.net/wiki/UESPWiki:Style_Guide","x":-272,"y":-200,"width":454,"height":900},
+		{"id":"89935ce9d3f4e976","type":"link","url":"https://en.wikipedia.org/wiki/Wikipedia:Simplified_Manual_of_Style","x":220,"y":-200,"width":460,"height":900},
+		{"id":"1d9d2d5339c10b1a","type":"link","url":"https://starwars.fandom.com/wiki/Wookieepedia:Manual_of_Style#:~:text=The%20Manual%20of%20Style%20(MOS,by%20the%20Manual%20of%20Style.","x":720,"y":-200,"width":480,"height":900}
+	],
+	"edges":[
+		{"id":"2ed355ef613df689","fromNode":"74419efcf4fd381f","fromSide":"bottom","toNode":"3bff085df42d4f7e","toSide":"top"},
+		{"id":"3718b7ab6f5a3362","fromNode":"1189a5de25523903","fromSide":"bottom","toNode":"f9b913fff373522a","toSide":"top"},
+		{"id":"ecf4c013fa960d64","fromNode":"1189a5de25523903","fromSide":"bottom","toNode":"1ec9880b31596391","toSide":"top"},
+		{"id":"26e92a9018e40fde","fromNode":"1189a5de25523903","fromSide":"bottom","toNode":"89935ce9d3f4e976","toSide":"top"},
+		{"id":"ba0b6d83a59140c3","fromNode":"1189a5de25523903","fromSide":"bottom","toNode":"1d9d2d5339c10b1a","toSide":"top"},
+		{"id":"6645fdf8e2bd8cc2","fromNode":"3bff085df42d4f7e","fromSide":"bottom","toNode":"1189a5de25523903","toSide":"top"}
+	]
+}

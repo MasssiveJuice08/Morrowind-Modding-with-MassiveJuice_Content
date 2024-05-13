@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "c2ca9397451dd65e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfac813db19fb033",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40cd19d6bbc20379",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "369bb4e2bfb5020d",
+    "type": "split",
+    "children": [
+      {
+        "id": "69376a36177b9676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d5b6eb34ea755f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc1814b33dee66d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "932023dac933d299",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca428791c2efb8ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "b85f9176c74b2d66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f1c088b65ebe7b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9a5fd417215c84b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e886e21b4912b90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cfd24f4e8f55c54e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8d5b6eb34ea755f0",
+  "lastOpenFiles": [
+    "quote dump rework.md",
+    "MMW Maintenance Templates Spitballing.md",
+    "Proposed Wiki Layout.md",
+    "backup/Patches.md",
+    "backup/Patches/Tutorials/Tutorial - Create an ESP Replacer Patch.md",
+    "backup/Patches/Creating a Patch for an ESP.md",
+    "MMW_Obsidian/README.md",
+    "MMW_Obsidian/content/Guides/Morrowind Interiors Project.md",
+    "MMW_Obsidian/content/Guides",
+    "MMW_Obsidian/content/Assets/How To Contribute/Pasted image 20240210195651.png",
+    "MMW_Obsidian/content/Assets/How To Contribute/Pasted image 20240210195530.png",
+    "MMW_Obsidian/content/Assets/How To Contribute/Screenshot_20240210_184527.png",
+    "MMW_Obsidian/content/Assets/How To Contribute/Screenshot_20240210_184527 1.png",
+    "MMW_Obsidian/content/Assets/How To Contribute/Pasted image 20240210194829.png",
+    "MMW_Obsidian/content/Assets/How To Contribute/Screenshot_20240210_184211.png",
+    "MMW_Obsidian/content/Assets/How To Contribute/Pasted image 20240210185439.png",
+    "MMW_Obsidian/content/Assets/How To Contribute/Pasted image 20240210184114.png",
+    "MMW_Obsidian/content/Assets/How To Contribute/Pasted image 20240210183916.png",
+    "MMW_Obsidian/content/Assets/How To Contribute/Pasted image 20240210200438.png",
+    "MMW_Obsidian/tsconfig.json",
+    "MMW_Obsidian/quartz/plugins/transformers/toc.ts",
+    "MMW_Obsidian/quartz/plugins/transformers/syntax.ts",
+    "MMW_Obsidian/quartz/plugins/transformers/oxhugofm.ts",
+    "MMW_Obsidian/quartz/plugins/transformers/ofm.ts",
+    "MMW_Obsidian/quartz/plugins/transformers/links.ts",
+    "MMW_Obsidian/quartz/plugins/transformers/linebreaks.ts",
+    "MMW_Obsidian/quartz/plugins/transformers/latex.ts",
+    "MMW_Obsidian/quartz/plugins/transformers/lastmod.ts",
+    "MMW_Obsidian/content/index.md",
+    "MMW_Obsidian/content/How To Contribute.md",
+    "Untitled.canvas",
+    "2024-02-10.md",
+    "Welcome.md"
+  ]
+}
