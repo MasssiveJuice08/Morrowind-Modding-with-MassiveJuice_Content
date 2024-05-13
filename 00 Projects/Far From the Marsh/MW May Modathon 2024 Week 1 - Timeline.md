@@ -1,6 +1,7 @@
 ---
 tags:
   - MW-May-Modathon-2024
+dg-publish: true
 ---
 
 ## Timeline of events leading to Jeelish-Tar's disappearance

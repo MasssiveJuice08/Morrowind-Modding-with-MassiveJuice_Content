@@ -1,6 +1,7 @@
 ---
 tags:
   - MW-May-Modathon-2024
+dg-publish: true
 ---
 ## Drafting the Mage's Journal Entries:
 
