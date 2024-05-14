@@ -1,4 +1,3 @@
-.obsidian
+.obsidian/
 .obsidian/*.json
 .obsidian/plugins
-.obsidian/*
