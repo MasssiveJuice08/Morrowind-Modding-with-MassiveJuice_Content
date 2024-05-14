@@ -69,18 +69,20 @@ Friction is not always a bad thing in creative processes though; conflict and re
 ### Brainstorming the Concept
 
 Week one theme - **'Mysticism and Prophecy'**
+
 ![[MW May Modathon 2024 Week 1 - Brainstorming#^b8a259]]
 
 ### Pitching the Concept to ChatGPT
+
 ![[MW May Modathon 2024 Week 1 - Plot Outline#^47b3b1]]
 
 ### Plot Outline
 
-![[MW May Modathon 2024 Week 1 - Plot Outline#^MW-Modathon-2024-W1-CGPT-PlotOutline|link-hover]]
+![[MW May Modathon 2024 Week 1 - Plot Outline#^MW-Modathon-2024-W1-CGPT-PlotOutline]]
 
 ### Journal Entries
 
-![[MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal#^MW-Modathon-2024-W1-CGPT-JournalEntries|link-hover]]
+![[MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal#^MW-Modathon-2024-W1-CGPT-JournalEntries]]
 
 ---
 
