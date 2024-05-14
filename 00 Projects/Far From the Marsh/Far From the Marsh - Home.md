@@ -2,8 +2,8 @@
 tags:
   - MW-May-Modathon-2024
   - MOC
-cssclasses:
-  - dataview-list
+cssclasses: 
+dg-publish: true
 ---
 ![[MW-May-Modathon-2024-Themes.png|center]]
 
