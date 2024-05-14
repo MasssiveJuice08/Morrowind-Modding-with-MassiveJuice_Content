@@ -9,6 +9,7 @@ tags:
 date_saved: 2024-04-30 20:06:25
 site_name: en.uesp.net
 original_url: https://en.uesp.net/wiki/Lore:Peakstar
+dg-publish: true
 ---
 
 # Lore:Peakstar - The Unofficial Elder Scrolls Pages (UESP)

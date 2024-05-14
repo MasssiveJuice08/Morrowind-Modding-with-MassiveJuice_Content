@@ -8,6 +8,7 @@ date_saved: 2024-04-30 19:30:31
 date_published: 2024-04-22 01:06:28
 site_name: Nexus Mods Forums
 original_url: https://forums.nexusmods.com/topic/13481169-the-2024-morrowind-may-modathon-month-modding-competition-celebrating-22-years-of-morrowind/
+dg-publish: true
 ---
 
 # 2024 Morrowind May Modathon - Nexus Forum Announcement

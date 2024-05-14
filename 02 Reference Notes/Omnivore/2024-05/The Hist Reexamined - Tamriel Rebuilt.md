@@ -8,6 +8,7 @@ date_saved: 2024-05-10 19:07:09
 date_published: 2016-08-27 12:05:00
 site_name: tamriel-rebuilt.org
 original_url: https://www.tamriel-rebuilt.org/forum/hist-reexamined
+dg-publish: true
 ---
 
 # The Hist Reexamined | Tamriel Rebuilt

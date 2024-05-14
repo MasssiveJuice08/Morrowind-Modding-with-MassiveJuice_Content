@@ -21,6 +21,8 @@ Drafting a plot outline using ChatGPT to generate ideas and distill my thoughts.
 > 
 > Please summarize your ideas in bullet-points.
 
+^47b3b1
+
 > [!recite|color-purple]- ChatGPT Response 1 - Plot Outline Draft:
 > - The protagonist, an adventurer, is drawn to the abandoned abode of a mage who specialized in Mysticism magic, located in the mystical land of Vvardenfell.
 > - The mage's disappearance is shrouded in mystery, with rumors circulating among locals about their experiments gone awry.

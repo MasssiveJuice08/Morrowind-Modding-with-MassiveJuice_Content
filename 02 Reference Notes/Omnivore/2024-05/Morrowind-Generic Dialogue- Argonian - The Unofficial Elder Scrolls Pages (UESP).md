@@ -7,6 +7,7 @@ tags:
 date_saved: 2024-05-03 21:30:03
 site_name: en.uesp.net
 original_url: https://en.uesp.net/wiki/Morrowind:Generic_Dialogue_A
+dg-publish: true
 ---
 
 # Morrowind:Generic Dialogue: Argonian - The Unofficial Elder Scrolls Pages (UESP)

@@ -7,6 +7,7 @@ tags:
 date_saved: 2024-04-30 20:10:59
 site_name: en.uesp.net
 original_url: https://en.uesp.net/wiki/Morrowind:Peakstar
+dg-publish: true
 ---
 
 # Morrowind:Peakstar - The Unofficial Elder Scrolls Pages (UESP)

@@ -9,6 +9,7 @@ tags:
 date_saved: 2024-04-30 19:59:28
 site_name: en.uesp.net
 original_url: https://en.uesp.net/wiki/Morrowind:Progress_of_Truth
+dg-publish: true
 ---
 
 # Morrowind:Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)

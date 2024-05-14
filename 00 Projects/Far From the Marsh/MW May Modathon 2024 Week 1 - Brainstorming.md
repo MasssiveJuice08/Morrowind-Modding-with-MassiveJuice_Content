@@ -6,7 +6,7 @@ dg-publish: true
 ## Theme - Mysticism and Prophecy
 
 ### Brainstorming Plot Ideas
-1. **A missing student of mysticism**
+1. **A missing student of mysticism** ^b8a259
 	- explore their home/laboratory and pick up the pieces of what happened through fragmentary notes
 	- lost while trying to discern patterns from the past - in search of a prophecy?
 	- Tell a story in a single room through notes and environmental worldbuilding
