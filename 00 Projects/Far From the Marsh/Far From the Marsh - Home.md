@@ -41,6 +41,8 @@ A Mages Guild member studying hidden patterns of Mysticism and prophecy has gone
   
 You can find ther cave west of Dagon Fel. Follow the road west and then north to a river crossing – the cave entrance is on the left.
 
+<br>
+
 ---
 
 ### Project Notes - Contents:
@@ -78,11 +80,11 @@ Week one theme - **'Mysticism and Prophecy'**
 
 ### Plot Outline
 
-![[MW May Modathon 2024 Week 1 - Plot Outline#^MW-Modathon-2024-W1-CGPT-PlotOutline]]
+![[MW May Modathon 2024 Week 1 - Plot Outline#^b118af]]
 
 ### Journal Entries
 
-![[MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal#^MW-Modathon-2024-W1-CGPT-JournalEntries]]
+![[MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal#^f97303]]
 
 ---
 
