@@ -1,3 +1,4 @@
+.gitignore
 .obsidian/
 .obsidian/*.json
 .obsidian/plugins
