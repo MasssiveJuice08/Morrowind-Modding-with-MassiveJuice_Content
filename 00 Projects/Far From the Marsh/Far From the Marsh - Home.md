@@ -34,6 +34,9 @@ A mod for Week One of the 2024 Morrowind Modathon theme, **'Mysticism and Prophe
 > | ---- | ---- |
 > | [NexusMods](https://www.nexusmods.com/morrowind/mods/54612) | Intial release |
 > | [Github](https://github.com/MasssiveJuice08/Far-From-The-Marsh) | WIP builds |
+> 
+> ##### Status
+> In active development
 
 ### Description:
 
@@ -67,6 +70,8 @@ Working with ChatGPT as a creative 'partner' makes for a very frictionless creat
 Friction is not always a bad thing in creative processes though; conflict and restrictions can be great stimuli for creativity. With that in mind, what ChatGPT lacks as a creative tool that a human does not is:
 - It can take creative feedback, but it won't give it back (unprompted, that is) - if you give it a creative prompt for a terrible script idea, _it'll do it anyway_, for better or worse.
 - It won't fight for _'its'_[^1] own ideas and argue that theirs should be used over your own ideas 
+
+Given the AI's limitations, seeking critical feedback from other modders will remain an important step in the creative process. That being said, ChatGPT has proved to be an invaluable tool in the initial developmental stage.
 
 ### Brainstorming the Concept
 
