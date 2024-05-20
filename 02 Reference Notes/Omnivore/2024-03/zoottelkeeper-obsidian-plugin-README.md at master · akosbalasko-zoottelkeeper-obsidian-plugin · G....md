@@ -1,13 +1,19 @@
 ---
 id: c1bd2a76-6819-457d-a269-10161439b2fc
-title: zoottelkeeper-obsidian-plugin/README.md at master · akosbalasko/zoottelkeeper-obsidian-plugin · GitHub
-author: akosbalasko
+title: |
+  zoottelkeeper-obsidian-plugin/README.md at master · akosbalasko/zoottelkeeper-obsidian-plugin · GitHub
+author: |
+  akosbalasko
 tags:
   - Obsidian-Plugins
   - MMW-Dev/Structure
 date_saved: 2024-03-27 12:13:58
 site_name: GitHub
-original_url: https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin/blob/master/README.md
+original_url: https://omnivore.app/me/https-github-com-akosbalasko-zoottelkeeper-obsidian-plugin-blob--18e7d0aaacb
+dg-publish: true
+dg-metatags:
+  description: "Obsidian plugin of Zoottelkeeper: An automated folder-level index file generator and maintainer. - akosbalasko/zoottelkeeper-obsidian-plugin"
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## zoottelkeeper-obsidian-plugin/README.md at master · akosbalasko/zoottelkeeper-obsidian-plugin · GitHub

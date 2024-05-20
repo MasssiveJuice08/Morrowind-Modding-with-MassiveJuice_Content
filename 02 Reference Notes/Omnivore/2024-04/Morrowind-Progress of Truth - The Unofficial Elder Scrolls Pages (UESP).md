@@ -1,15 +1,20 @@
 ---
 id: 22dd686a-2740-4041-bf8f-25d9e6a89411
-title: Morrowind:Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)
-author: 6. Authority of the Archcanon and the Ordinators
+title: |
+  Morrowind:Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)
+author: |
+  6. Authority of the Archcanon and the Ordinators
 tags:
   - Mysticism
   - prophecy
   - MW-May-Modathon-2024
 date_saved: 2024-04-30 19:59:28
 site_name: en.uesp.net
-original_url: https://en.uesp.net/wiki/Morrowind:Progress_of_Truth
+original_url: https://omnivore.app/me/morrowind-progress-of-truth-the-unofficial-elder-scrolls-pages-u-18f2e040c86
 dg-publish: true
+dg-metatags:
+  description: The UESPWiki – Your source for The Elder Scrolls since 1995
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Morrowind:Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)

@@ -1,13 +1,19 @@
 ---
 id: c89ef6a9-bb3d-4385-b058-bd388f938559
-title: How To Use CSS Hex Code Colors with Alpha Values | DigitalOcean
-author: Jess Mitchell
+title: |
+  How To Use CSS Hex Code Colors with Alpha Values | DigitalOcean
+author: |
+  Jess Mitchell
 tags:
   - Quartz/CSS
 date_saved: 2024-03-15 19:07:13
 date_published: 2020-09-10 04:44:35
 site_name: DigitalOcean
-original_url: https://www.digitalocean.com/community/tutorials/css-hex-code-colors-alpha-values
+original_url: https://omnivore.app/me/how-to-use-css-hex-code-colors-with-alpha-values-digital-ocean-18e40b39af0
+dg-publish: true
+dg-metatags:
+  description: Learn how to use hex codes in CSS and change the transparency of the color by using an alpha value. An introduction to hexadecimal numbers is included, too.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## How To Use CSS Hex Code Colors with Alpha Values | DigitalOcean

@@ -1,13 +1,19 @@
 ---
 id: 58ae6e53-a921-490e-9c98-51c42f37428f
-title: HTML Quotation Elements
-author: unknown
+title: |
+  HTML Quotation Elements
+author: |
+  unknown
 tags:
   - MMW-Dev/CSS
   - MMW-Dev/SEO
 date_saved: 2024-03-25 19:41:45
 site_name: w3schools.com
-original_url: https://www.w3schools.com/html/html_quotation_elements.asp
+original_url: https://omnivore.app/me/html-quotation-elements-18e7457c2ee
+dg-publish: true
+dg-metatags:
+  description: Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## HTML Quotation Elements

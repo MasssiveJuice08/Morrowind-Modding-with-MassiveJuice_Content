@@ -1,14 +1,20 @@
 ---
 id: 24678f56-6d19-4f32-a0d0-91af55e8d22d
-title: Create and Use Font Awesome Custom Icons for Your Website
-author: unknown
+title: |
+  Create and Use Font Awesome Custom Icons for Your Website
+author: |
+  unknown
 tags:
   - MMW-Dev/CSS
   - Quartz/CSS
 date_saved: 2024-04-09 20:43:14
 date_published: 2023-10-31 13:00:00
 site_name: dhiwise.com
-original_url: https://www.dhiwise.com/post/how-to-create-and-use-font-awesome-custom-icons
+original_url: https://omnivore.app/me/https-www-dhiwise-com-post-how-to-create-and-use-font-awesome-cu-18ec20683c6
+dg-publish: true
+dg-metatags:
+  description: Know how to use the Font awesome custom icons for your website.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Create and Use Font Awesome Custom Icons for Your Website

@@ -1,13 +1,18 @@
 ---
 id: ecec3727-2609-43b1-af83-948bc325b327
-title: Morrowind:Peakstar - The Unofficial Elder Scrolls Pages (UESP)
-author: unknown
+title: |
+  Morrowind:Peakstar - The Unofficial Elder Scrolls Pages (UESP)
+author: |
+  unknown
 tags:
   - MW-May-Modathon-2024
 date_saved: 2024-04-30 20:10:59
 site_name: en.uesp.net
-original_url: https://en.uesp.net/wiki/Morrowind:Peakstar
+original_url: https://omnivore.app/me/morrowind-peakstar-the-unofficial-elder-scrolls-pages-uesp-18f2e0e8263
 dg-publish: true
+dg-metatags:
+  description: The UESPWiki – Your source for The Elder Scrolls since 1995
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Morrowind:Peakstar - The Unofficial Elder Scrolls Pages (UESP)

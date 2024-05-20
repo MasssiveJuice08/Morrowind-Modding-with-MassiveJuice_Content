@@ -1,13 +1,18 @@
 ---
 id: 1567be0e-edc5-484d-baf9-9d4bbbfff6a9
-title: "Morrowind:Generic Dialogue: Argonian - The Unofficial Elder Scrolls Pages (UESP)"
-author: unknown
+title: |
+  Morrowind:Generic Dialogue: Argonian - The Unofficial Elder Scrolls Pages (UESP)
+author: |
+  unknown
 tags:
   - MW-May-Modathon-2024
 date_saved: 2024-05-03 21:30:03
 site_name: en.uesp.net
-original_url: https://en.uesp.net/wiki/Morrowind:Generic_Dialogue_A
+original_url: https://omnivore.app/me/morrowind-generic-dialogue-a-the-unofficial-elder-scrolls-pages--18f3dca0d47
 dg-publish: true
+dg-metatags:
+  description: The UESPWiki – Your source for The Elder Scrolls since 1995
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Morrowind:Generic Dialogue: Argonian - The Unofficial Elder Scrolls Pages (UESP)

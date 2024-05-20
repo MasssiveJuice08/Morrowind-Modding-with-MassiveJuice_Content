@@ -1,14 +1,20 @@
 ---
 id: 7a8c2730-0e71-4915-98a4-0987a7d904e8
-title: Obsidian Grid Callouts · joschua.io
-author: unknown
+title: |
+  Obsidian Grid Callouts · joschua.io
+author: |
+  unknown
 tags:
   - MMW-Dev/CSS
   - Obsidian/CSS
 date_saved: 2024-04-02 13:39:29
 date_published: 2022-12-04 13:00:00
 site_name: joschua.io
-original_url: https://joschua.io/posts/2022/12/04/obsidian-grid-callouts/
+original_url: https://omnivore.app/me/obsidian-grid-callouts-joschua-io-18e9c3f29f0
+dg-publish: true
+dg-metatags:
+  description: How to arrange content in Obsidian in columns without any plugins.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Obsidian Grid Callouts · joschua.io

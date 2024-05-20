@@ -1,15 +1,20 @@
 ---
 id: 280b4973-3f23-47a7-b809-733fbc02072b
-title: Lore:Peakstar - The Unofficial Elder Scrolls Pages (UESP)
-author: unknown
+title: |
+  Lore:Peakstar - The Unofficial Elder Scrolls Pages (UESP)
+author: |
+  unknown
 tags:
   - Mysticism
   - prophecy
   - MW-May-Modathon-2024
 date_saved: 2024-04-30 20:06:25
 site_name: en.uesp.net
-original_url: https://en.uesp.net/wiki/Lore:Peakstar
+original_url: https://omnivore.app/me/lore-peakstar-the-unofficial-elder-scrolls-pages-uesp-18f2e0a6910
 dg-publish: true
+dg-metatags:
+  description: The UESPWiki – Your source for The Elder Scrolls since 1995
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Lore:Peakstar - The Unofficial Elder Scrolls Pages (UESP)

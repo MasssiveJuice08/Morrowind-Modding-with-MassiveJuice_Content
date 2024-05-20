@@ -1,12 +1,18 @@
 ---
 id: a7320ba3-1b49-4d52-aa58-c9195ba1ffb9
-title: OpenGraph - Preview Social Media Share and Generate Metatags - OpenGraph
-author: unknown
+title: |
+  OpenGraph - Preview Social Media Share and Generate Metatags - OpenGraph
+author: |
+  unknown
 tags:
   - SEO
 date_saved: 2024-05-15 06:47:21
 site_name: OpenGraph
-original_url: https://www.opengraph.xyz
+original_url: https://omnivore.app/me/https-www-opengraph-xyz-18f786e357f
+dg-publish: true
+dg-metatags:
+  description: OpenGraph is the easiest way to preview and generate open graph meta tags for any website.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## OpenGraph - Preview Social Media Share and Generate Metatags - OpenGraph

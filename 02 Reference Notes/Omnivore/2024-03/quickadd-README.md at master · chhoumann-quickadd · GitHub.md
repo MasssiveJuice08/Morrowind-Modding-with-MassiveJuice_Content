@@ -1,13 +1,19 @@
 ---
 id: 3b6a5e9f-c781-4dfb-a8d2-eb58e6aa677a
-title: quickadd/README.md at master · chhoumann/quickadd · GitHub
-author: chhoumann
+title: |
+  quickadd/README.md at master · chhoumann/quickadd · GitHub
+author: |
+  chhoumann
 tags:
   - Obsidian-Plugins
   - MMW-Dev/Workflow
 date_saved: 2024-03-24 04:48:57
 site_name: GitHub
-original_url: https://github.com/chhoumann/quickadd/blob/master/README.md
+original_url: https://omnivore.app/me/https-github-com-chhoumann-quickadd-blob-master-readme-md-18e6c002d5d
+dg-publish: true
+dg-metatags:
+  description: QuickAdd for Obsidian. Contribute to chhoumann/quickadd development by creating an account on GitHub.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## quickadd/README.md at master · chhoumann/quickadd · GitHub

@@ -1,14 +1,20 @@
 ---
 id: 93b3bfaf-af76-4aa8-ab1f-74e2b6eff84a
-title: obsidian-leaflet/README.md at main · javalent/obsidian-leaflet · GitHub
-author: javalent
+title: |
+  obsidian-leaflet/README.md at main · javalent/obsidian-leaflet · GitHub
+author: |
+  javalent
 tags:
   - Obsidian-Plugins
   - MMW-Dev/Workflow
   - MMW-Style
 date_saved: 2024-03-24 18:49:42
 site_name: GitHub
-original_url: https://github.com/javalent/obsidian-leaflet/blob/main/README.md
+original_url: https://omnivore.app/me/https-github-com-javalent-obsidian-leaflet-blob-main-readme-md-18e6f01e4d8
+dg-publish: true
+dg-metatags:
+  description: Adds interactive maps to Obsidian.md using Leaflet.js - javalent/obsidian-leaflet
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## obsidian-leaflet/README.md at main · javalent/obsidian-leaflet · GitHub

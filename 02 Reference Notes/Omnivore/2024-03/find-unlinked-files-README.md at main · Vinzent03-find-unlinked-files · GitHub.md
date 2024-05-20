@@ -1,13 +1,19 @@
 ---
 id: 3b4df470-5f07-4b15-a16e-6b64d3d55f62
-title: find-unlinked-files/README.md at main · Vinzent03/find-unlinked-files · GitHub
-author: Vinzent03
+title: |
+  find-unlinked-files/README.md at main · Vinzent03/find-unlinked-files · GitHub
+author: |
+  Vinzent03
 tags:
   - Obsidian-Plugins
   - MMW-Dev/Workflow
 date_saved: 2024-03-24 18:46:14
 site_name: GitHub
-original_url: https://github.com/Vinzent03/find-unlinked-files/blob/main/README.md
+original_url: https://omnivore.app/me/https-github-com-vinzent-03-find-unlinked-files-blob-main-readme-18e6efeba91
+dg-publish: true
+dg-metatags:
+  description: Find files, which are nowhere linked, so they are maybe lost in your vault. - Vinzent03/find-unlinked-files
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## find-unlinked-files/README.md at main · Vinzent03/find-unlinked-files · GitHub

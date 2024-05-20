@@ -1,14 +1,20 @@
 ---
 id: 0eb258cb-24ac-49cb-a114-ff425c86189c
-title: Tamriel Data:The Thrassian Campaign - The Unofficial Elder Scrolls Pages (UESP)
-author: unknown
+title: |
+  Tamriel Data:The Thrassian Campaign - The Unofficial Elder Scrolls Pages (UESP)
+author: |
+  unknown
 tags:
   - Tamriel-Data
   - Ngasta-Pasta
   - TES-Lore
 date_saved: 2024-05-12 19:15:15
 site_name: en.m.uesp.net
-original_url: https://en.m.uesp.net/wiki/Tamriel_Data:The_Thrassian_Campaign
+original_url: https://omnivore.app/me/https-en-m-uesp-net-wiki-tamriel-data-the-thrassian-campaign-18f6ba7d261
+dg-publish: true
+dg-metatags:
+  description: On the nature of the Sload, collected from the Notes of Bendu Olo, West King of Anvil and Baron-Admiral of the All Flags Navy, and Dealer of Swift Justice to the Foul Spot of Thras.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Tamriel Data:The Thrassian Campaign - The Unofficial Elder Scrolls Pages (UESP)

@@ -1,13 +1,6 @@
 ---
 id: 6f89d50a-b59c-4ca9-ad71-a37564ff473c
-title: Wikipedia:Did you know - Wikipedia
-author: unknown
-tags:
-  - MMW-Dev/Community
-date_saved: 2024-04-11 20:04:46
-date_published: 2004-04-03 12:00:00
-site_name: en.m.wikipedia.org
-original_url: https://en.m.wikipedia.org/wiki/Wikipedia:Did_you_know
+omnivore_error: There was an error parsing the front matter template. See console for details.
 ---
 
 ## Wikipedia:Did you know - Wikipedia

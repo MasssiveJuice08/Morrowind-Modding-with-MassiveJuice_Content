@@ -1,13 +1,19 @@
 ---
 id: 89e0abab-3317-43c8-92ed-a3b2278acf6b
-title: html - What is the benefit to using <acronym> and <abbr>? - Stack Overflow
-author: Jitendra Vyas
+title: |
+  html - What is the benefit to using <acronym> and <abbr>? - Stack Overflow
+author: |
+  Jitendra Vyas
 tags:
   - Obsidian/CSS
   - MMW-Dev/SEO
 date_saved: 2024-03-25 20:00:28
 site_name: Stack Overflow
-original_url: https://stackoverflow.com/questions/2196980/what-is-the-benefit-to-using-acronym-and-abbr
+original_url: https://omnivore.app/me/html-what-is-the-benefit-to-using-acronym-and-abbr-stack-overflo-18e74691668
+dg-publish: true
+dg-metatags:
+  description: Should i give my time to change terms and abbreviations to <acronym> and <abbr>? Is it worth to use? What are pros to use both tags? Is it useful for SEO and screen reader?
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## html - What is the benefit to using <acronym> and <abbr>? - Stack Overflow

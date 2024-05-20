@@ -1,14 +1,20 @@
 ---
 id: 97241440-f2c0-4359-a22a-ae61f3d135ae
-title: Abbreviations — Web Accessibility Guidance project — NZ Government
-author: unknown
+title: |
+  Abbreviations — Web Accessibility Guidance project — NZ Government
+author: |
+  unknown
 tags:
   - MMW-Dev/Workflow
   - MMW-Dev/CSS
   - MMW-Dev/Accessibility
 date_saved: 2024-03-25 23:06:03
 site_name: govtnz.github.io
-original_url: https://govtnz.github.io/web-a11y-guidance/wct/abbreviations/
+original_url: https://omnivore.app/me/abbreviations-web-accessibility-guidance-project-nz-government-18e750dd719
+dg-publish: true
+dg-metatags:
+  description: Make abbreviations accessible by providing or linking to the expanded form the first time it’s used on the page.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Abbreviations — Web Accessibility Guidance project — NZ Government

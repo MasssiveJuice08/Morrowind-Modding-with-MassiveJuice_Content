@@ -1,14 +1,20 @@
 ---
 id: 2c57e1ca-6472-42b3-aa39-e2eb9e172d8a
-title: Charts Documentation - Charts Plugin
-author: unknown
+title: |
+  Charts Documentation - Charts Plugin
+author: |
+  unknown
 tags:
   - Obsidian-Plugins
   - MMW-Dev/Workflow
   - MMW-Style
 date_saved: 2024-03-24 18:38:54
 site_name: charts.phib.ro
-original_url: https://charts.phib.ro/Meta/Charts/Charts+Documentation
+original_url: https://omnivore.app/me/https-charts-phib-ro-meta-charts-charts-documentation-18e6ef80aa5
+dg-publish: true
+dg-metatags:
+  description: Charts Documentation - Charts Plugin
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Charts Documentation - Charts Plugin

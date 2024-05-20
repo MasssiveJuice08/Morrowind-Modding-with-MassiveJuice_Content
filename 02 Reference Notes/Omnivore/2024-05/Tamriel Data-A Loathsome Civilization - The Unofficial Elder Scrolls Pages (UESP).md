@@ -1,14 +1,20 @@
 ---
 id: cb4af8a5-23c7-40f2-981e-a9f600e9bada
-title: Tamriel Data:A Loathsome Civilization - The Unofficial Elder Scrolls Pages (UESP)
-author: unknown
+title: |
+  Tamriel Data:A Loathsome Civilization - The Unofficial Elder Scrolls Pages (UESP)
+author: |
+  unknown
 tags:
   - Tamriel-Data
   - Ngasta-Pasta
   - TES-Lore
 date_saved: 2024-05-13 10:43:17
 site_name: en.m.uesp.net
-original_url: https://en.m.uesp.net/wiki/Tamriel_Data:A_Loathsome_Civilization
+original_url: https://omnivore.app/me/https-en-m-uesp-net-wiki-tamriel-data-a-loathsome-civilization-18f6ef97869
+dg-publish: true
+dg-metatags:
+  description: A Loathsome Civilization
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Tamriel Data:A Loathsome Civilization - The Unofficial Elder Scrolls Pages (UESP)

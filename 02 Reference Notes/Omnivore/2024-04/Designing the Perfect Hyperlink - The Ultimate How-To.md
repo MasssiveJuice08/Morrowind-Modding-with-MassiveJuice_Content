@@ -1,14 +1,20 @@
 ---
 id: ea1dd70c-c1f4-4590-8cab-6392c465a4f5
-title: Designing the Perfect Hyperlink - The Ultimate How-To
-author: William Craig
+title: |
+  Designing the Perfect Hyperlink - The Ultimate How-To
+author: |
+  William Craig
 tags:
   - MMW-Dev/CSS
   - CSS/Hyperlinks
   - MMW-Dev/Accessibility
 date_saved: 2024-04-01 18:19:37
 site_name: WebFX
-original_url: https://www.webfx.com/blog/web-design/hyperlink-design/
+original_url: https://omnivore.app/me/designing-the-perfect-hyperlink-the-ultimate-how-to-18e981945be
+dg-publish: true
+dg-metatags:
+  description: The design of hyperlinks can affect the usability of your web pages and also the user experience. Here are some tips to improve hyperlink designs.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Designing the Perfect Hyperlink - The Ultimate How-To

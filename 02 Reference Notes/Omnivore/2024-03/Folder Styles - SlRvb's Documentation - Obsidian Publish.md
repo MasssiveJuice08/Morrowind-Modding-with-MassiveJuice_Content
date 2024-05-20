@@ -1,13 +1,19 @@
 ---
 id: 36230113-582e-4f9e-92fc-21486eb2d589
-title: Folder Styles - SlRvb's Documentation - Obsidian Publish
-author: unknown
+title: |
+  Folder Styles - SlRvb's Documentation - Obsidian Publish
+author: |
+  unknown
 tags:
   - Quartz/CSS
   - MMW-Style
 date_saved: 2024-03-20 23:52:35
 site_name: publish.obsidian.md
-original_url: https://publish.obsidian.md/slrvb-docs/ITS+Theme/Folder+Styles
+original_url: https://omnivore.app/me/folder-styles-sl-rvb-s-documentation-obsidian-publish-18e5b7dceb8
+dg-publish: true
+dg-metatags:
+  description: ITS Theme - SlRvb's Documentation - Powered by Obsidian Publish.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Folder Styles - SlRvb's Documentation - Obsidian Publish

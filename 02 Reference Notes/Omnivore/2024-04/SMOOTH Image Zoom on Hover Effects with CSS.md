@@ -1,14 +1,20 @@
 ---
 id: f29e39e0-8a7a-4394-b9bc-b4c2649cb1fd
-title: SMOOTH Image Zoom on Hover Effects with CSS
-author: Rahul
+title: |
+  SMOOTH Image Zoom on Hover Effects with CSS
+author: |
+  Rahul
 tags:
   - CSS
   - MMW-Style
 date_saved: 2024-04-26 23:36:14
 date_published: 2014-08-25 22:13:44
 site_name: W3Bits
-original_url: https://w3bits.com/css-image-hover-zoom/
+original_url: https://omnivore.app/me/https-w-3-bits-com-css-image-hover-zoom-18f1a310388
+dg-publish: true
+dg-metatags:
+  description: A bunch of instant CSS recipes to achieve slick image hover zoom effects coupled with some rotation, scaling, blurring, and more.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## SMOOTH Image Zoom on Hover Effects with CSS

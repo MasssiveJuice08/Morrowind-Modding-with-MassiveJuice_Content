@@ -1,14 +1,20 @@
 ---
 id: f7654ca9-57b9-494f-a752-94f2f8482502
-title: obsidian_supercharged_links/README.md at master · mdelobelle/obsidian_supercharged_links · GitHub
-author: mdelobelle
+title: |
+  obsidian_supercharged_links/README.md at master · mdelobelle/obsidian_supercharged_links · GitHub
+author: |
+  mdelobelle
 tags:
   - Obsidian-Plugins
   - MMW-Dev/CSS
   - MMW-Style
 date_saved: 2024-03-27 00:21:07
 site_name: GitHub
-original_url: https://github.com/mdelobelle/obsidian_supercharged_links/blob/master/README.md
+original_url: https://omnivore.app/me/https-github-com-mdelobelle-obsidian-supercharged-links-blob-mas-18e7a7e0a57
+dg-publish: true
+dg-metatags:
+  description: obsidian plugin to add attributes and context menu options to internal links - mdelobelle/obsidian_supercharged_links
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## obsidian_supercharged_links/README.md at master · mdelobelle/obsidian_supercharged_links · GitHub

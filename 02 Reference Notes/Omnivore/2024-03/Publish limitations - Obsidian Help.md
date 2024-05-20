@@ -1,13 +1,19 @@
 ---
 id: 4fcf9dd2-ea72-4b27-a468-d27d599ae6dc
-title: Publish limitations - Obsidian Help
-author: unknown
+title: |
+  Publish limitations - Obsidian Help
+author: |
+  unknown
 tags:
   - MMW-Policy/Structure
   - Obsidian-Plugins
 date_saved: 2024-03-29 05:16:55
 site_name: help.obsidian.md
-original_url: https://help.obsidian.md/Obsidian+Publish/Publish+limitations
+original_url: https://omnivore.app/me/https-help-obsidian-md-obsidian-publish-publish-limitations-18e85d9963d
+dg-publish: true
+dg-metatags:
+  description: Publish limitations - Obsidian Help
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Publish limitations - Obsidian Help

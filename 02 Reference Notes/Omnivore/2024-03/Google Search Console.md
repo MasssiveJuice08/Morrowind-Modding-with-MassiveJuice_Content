@@ -1,12 +1,18 @@
 ---
 id: 57451efa-a003-414c-b4da-5ff364e217f2
-title: Google Search Console
-author: unknown
+title: |
+  Google Search Console
+author: |
+  unknown
 tags:
   - MMW-Dev/SEO
 date_saved: 2024-03-30 16:59:55
 site_name: search.google.com
-original_url: https://search.google.com/search-console/about
+original_url: https://omnivore.app/me/https-search-google-com-search-console-about-18e8d839007
+dg-publish: true
+dg-metatags:
+  description: ""
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Google Search Console

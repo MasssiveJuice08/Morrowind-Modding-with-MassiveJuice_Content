@@ -1,14 +1,19 @@
 ---
 id: 05ab11be-0248-47f5-a0ab-95b3af53a090
-title: 2024 Morrowind May Modathon - Nexus Forum Announcement
-author: darkelfguy
+title: |
+  2024 Morrowind May Modathon - Nexus Forum Announcement
+author: |
+  darkelfguy
 tags:
   - MW-May-Modathon-2024
 date_saved: 2024-04-30 19:30:31
 date_published: 2024-04-22 01:06:28
 site_name: Nexus Mods Forums
-original_url: https://forums.nexusmods.com/topic/13481169-the-2024-morrowind-may-modathon-month-modding-competition-celebrating-22-years-of-morrowind/
+original_url: https://omnivore.app/me/the-2024-morrowind-may-modathon-month-modding-competition-celebr-18f2de988e2
 dg-publish: true
+dg-metatags:
+  description: The 2024 Morrowind May Modathon Month Modding Competition - May 1st-June 2nd Looking to participate? Use the Modathon Logo in your mod description! Also, check out the Achievements Banner (Color Achievements Banner Black and White Achievements Banner) Got questions? Stop by the Modathon Discord C...
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## 2024 Morrowind May Modathon - Nexus Forum Announcement

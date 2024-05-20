@@ -1,7 +1,11 @@
 ---
 dg-publish: true
 dg-home: true
+dg-metatags:
+ description: Morrowind Modding with MassiveJuice
+ og:image: https://i.imgur.com/LmCg5HX.png
 ---
+
 ## Welcome! 
 
 ![[Profile_Picture.jpg|profile left htiny wtiny]]

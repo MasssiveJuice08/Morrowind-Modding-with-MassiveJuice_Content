@@ -1,12 +1,18 @@
 ---
 id: c4dd62f5-d05d-4531-83af-92c493292fba
-title: TrustedSec | Obsidian, Taming a Collective Consciousness
-author: unknown
+title: |
+  TrustedSec | Obsidian, Taming a Collective Consciousness
+author: |
+  unknown
 tags:
   - MMW-Dev/Workflow
 date_saved: 2024-03-19 22:52:21
 site_name: TrustedSec
-original_url: https://www.trustedsec.com/blog/obsidian-taming-a-collective-consciousness
+original_url: https://omnivore.app/me/trusted-sec-obsidian-taming-a-collective-consciousness-18e56204d1d
+dg-publish: true
+dg-metatags:
+  description: On August 05, 2021, a member of the Conti ransomware group leaked some of the group's internal playbooks and technical documentation. Irrespective of any details surrounding the leak or its contents, the event itself prompted a more widespread examination of how teams’ maintain their operational playbooks and documentation. A tweet by Mubix came across my radar and seemed to summarize this well.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## TrustedSec | Obsidian, Taming a Collective Consciousness

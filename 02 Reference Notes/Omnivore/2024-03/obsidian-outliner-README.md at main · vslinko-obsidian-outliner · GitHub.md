@@ -1,13 +1,19 @@
 ---
 id: f1d4f779-bc4a-4dde-9ee9-0a69b697449b
-title: obsidian-outliner/README.md at main · vslinko/obsidian-outliner · GitHub
-author: vslinko
+title: |
+  obsidian-outliner/README.md at main · vslinko/obsidian-outliner · GitHub
+author: |
+  vslinko
 tags:
   - Obsidian-Plugins
   - MMW-Dev/Workflow
 date_saved: 2024-03-24 04:28:35
 site_name: GitHub
-original_url: https://github.com/vslinko/obsidian-outliner/blob/main/README.md
+original_url: https://omnivore.app/me/https-github-com-vslinko-obsidian-outliner-blob-main-readme-md-18e6bed8883
+dg-publish: true
+dg-metatags:
+  description: Work with your lists like in Workflowy or RoamResearch - vslinko/obsidian-outliner
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## obsidian-outliner/README.md at main · vslinko/obsidian-outliner · GitHub

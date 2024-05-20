@@ -1,13 +1,19 @@
 ---
 id: 951a33a2-4d57-4b33-88ea-da68da1e561f
-title: HTML Favicon
-author: unknown
+title: |
+  HTML Favicon
+author: |
+  unknown
 tags:
   - MMW-Style
   - Quartz
 date_saved: 2024-03-29 18:57:50
 site_name: w3schools.com
-original_url: https://www.w3schools.com/html/html_favicon.asp
+original_url: https://omnivore.app/me/html-favicon-18e88c5cc0d
+dg-publish: true
+dg-metatags:
+  description: Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## HTML Favicon

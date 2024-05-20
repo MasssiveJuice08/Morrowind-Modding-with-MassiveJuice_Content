@@ -1,14 +1,19 @@
 ---
 id: 232503ac-94e1-4f0a-b0d6-34c8a081cf9f
-title: Morrowind:Mysticism (book) - The Unofficial Elder Scrolls Pages (UESP)
-author: unknown
+title: |
+  Morrowind:Mysticism (book) - The Unofficial Elder Scrolls Pages (UESP)
+author: |
+  unknown
 tags:
   - Mysticism
   - MW-May-Modathon-2024
 date_saved: 2024-04-30 19:41:31
 site_name: en.uesp.net
-original_url: https://en.uesp.net/wiki/Morrowind:Mysticism_(book)
+original_url: https://omnivore.app/me/morrowind-mysticism-book-the-unofficial-elder-scrolls-pages-uesp-18f2df39ed1
 dg-publish: true
+dg-metatags:
+  description: The UESPWiki – Your source for The Elder Scrolls since 1995
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Morrowind:Mysticism (book) - The Unofficial Elder Scrolls Pages (UESP)

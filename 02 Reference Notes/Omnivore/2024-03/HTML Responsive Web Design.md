@@ -1,13 +1,19 @@
 ---
 id: 49ac2d0a-bb8a-454e-a7f9-8169558a17b1
-title: HTML Responsive Web Design
-author: unknown
+title: |
+  HTML Responsive Web Design
+author: |
+  unknown
 tags:
   - MMW-Dev/Accessibility
   - Obsidian/Callouts
 date_saved: 2024-03-30 20:31:52
 site_name: w3schools.com
-original_url: https://www.w3schools.com/html/html_responsive.asp
+original_url: https://omnivore.app/me/html-responsive-web-design-18e8e459fc7
+dg-publish: true
+dg-metatags:
+  description: Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## HTML Responsive Web Design

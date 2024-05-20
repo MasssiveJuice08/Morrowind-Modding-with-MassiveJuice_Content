@@ -1,14 +1,19 @@
 ---
 id: 8ac32299-f232-4efe-8eba-299ecf7320cb
-title: The Hist Reexamined | Tamriel Rebuilt
-author: Atrayonis
+title: |
+  The Hist Reexamined | Tamriel Rebuilt
+author: |
+  Atrayonis
 tags:
   - MW-May-Modathon-2024
 date_saved: 2024-05-10 19:07:09
 date_published: 2016-08-27 12:05:00
 site_name: tamriel-rebuilt.org
-original_url: https://www.tamriel-rebuilt.org/forum/hist-reexamined
+original_url: https://omnivore.app/me/https-www-tamriel-rebuilt-org-forum-hist-reexamined-18f6153b6d8
 dg-publish: true
+dg-metatags:
+  description: ""
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## The Hist Reexamined | Tamriel Rebuilt

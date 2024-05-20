@@ -1,14 +1,20 @@
 ---
 id: dce9c695-de77-4948-b5f9-b02d5372544f
-title: Embedding YouTube Videos in Obsidian Digital Garden
-author: oleeskild
+title: |
+  Embedding YouTube Videos in Obsidian Digital Garden
+author: |
+  oleeskild
 tags:
   - MMW-Dev/Alternative-Sites/DG
   - Obsidian-DG/Videos
 date_saved: 2024-03-19 14:56:26
 date_published: 2022-10-17 13:00:00
 site_name: GitHub
-original_url: https://github.com/oleeskild/obsidian-digital-garden/issues/80
+original_url: https://omnivore.app/me/https-github-com-oleeskild-obsidian-digital-garden-issues-80-18e546c8a93
+dg-publish: true
+dg-metatags:
+  description: I would love to be able to embed videos in my notes and have them appear on my digital garden as well. Right now, it just shows ![[videofilename.mp4]] in it's place instead.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Embedding YouTube Videos in Obsidian Digital Garden

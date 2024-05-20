@@ -1,13 +1,19 @@
 ---
 id: cf290c9c-46b0-4a64-b701-29e1c4a03ede
-title: obsidian-copy-block-link/README.md at main · mgmeyers/obsidian-copy-block-link · GitHub
-author: mgmeyers
+title: |
+  obsidian-copy-block-link/README.md at main · mgmeyers/obsidian-copy-block-link · GitHub
+author: |
+  mgmeyers
 tags:
   - Obsidian-Plugins
   - MMW-Dev/Workflow
 date_saved: 2024-03-27 12:36:40
 site_name: GitHub
-original_url: https://github.com/mgmeyers/obsidian-copy-block-link/blob/main/README.md
+original_url: https://omnivore.app/me/https-github-com-mgmeyers-obsidian-copy-block-link-blob-main-rea-18e7d1f76ac
+dg-publish: true
+dg-metatags:
+  description: Get links to blocks and headings from Obsidian's right click menu. - mgmeyers/obsidian-copy-block-link
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## obsidian-copy-block-link/README.md at main · mgmeyers/obsidian-copy-block-link · GitHub

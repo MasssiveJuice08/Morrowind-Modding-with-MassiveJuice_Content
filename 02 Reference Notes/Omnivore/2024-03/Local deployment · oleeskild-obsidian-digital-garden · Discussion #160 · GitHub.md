@@ -1,13 +1,19 @@
 ---
 id: 55c02972-b752-4128-9a5e-e377fcbaff19
-title: "Local deployment · oleeskild/obsidian-digital-garden · Discussion #160 · GitHub"
-author: oleeskild
+title: |
+  Local deployment · oleeskild/obsidian-digital-garden · Discussion #160 · GitHub
+author: |
+  oleeskild
 tags:
   - MMW-Dev/Alternative-Sites
 date_saved: 2024-03-18 18:53:03
 date_published: 2023-01-12 13:00:00
 site_name: GitHub
-original_url: https://github.com/oleeskild/obsidian-digital-garden/discussions/160
+original_url: https://omnivore.app/me/local-deployment-oleeskild-obsidian-digital-garden-discussion-16-18e501c54ac
+dg-publish: true
+dg-metatags:
+  description: As a PhD student relying heavily on Obsidian, I'm looking for a way to share some of my notes with my lab colleagues. This project seems to fit my needs perfectly however I'm wondering weth...
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Local deployment · oleeskild/obsidian-digital-garden · Discussion #160 · GitHub

@@ -1,13 +1,19 @@
 ---
 id: 64276a7a-097d-4b38-83d7-edbf8232e12e
-title: "Practically Paperless with Obsidian, Episode 21: Tags in Theory and Tags in Practice (And Never the Twain Shall Meet?) – Jamie Todd Rubin"
-author: Jamie Todd Rubin
+title: |
+  Practically Paperless with Obsidian, Episode 21: Tags in Theory and Tags in Practice (And Never the Twain Shall Meet?) – Jamie Todd Rubin
+author: |
+  Jamie Todd Rubin
 tags:
   - MMW-Policy/Tags
 date_saved: 2024-03-29 04:19:02
 date_published: 2022-03-09 02:00:00
 site_name: Jamie Todd Rubin
-original_url: https://jamierubin.net/2022/03/08/practically-paperless-with-obsidian-episode-21-tags-in-theory-and-tags-in-practice-and-never-the-twain-shall-meet/
+original_url: https://omnivore.app/me/https-jamierubin-net-2022-03-08-practically-paperless-with-obsid-18e85a49939
+dg-publish: true
+dg-metatags:
+  description: "Photo by Eva Elijas on Pexels.com Welcome to my blog series, “Practically Paperless with Obsidian.” For an overview of this series, please see Episode 0: Series Overview. This episode is less of a …"
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Practically Paperless with Obsidian, Episode 21: Tags in Theory and Tags in Practice (And Never the Twain Shall Meet?) – Jamie Todd Rubin
