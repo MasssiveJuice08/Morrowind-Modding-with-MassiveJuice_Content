@@ -9,13 +9,13 @@ site_name: GitHub Docs
 original_url: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
 ---
 
-# Organizing information with tables - GitHub Docs
+## Organizing information with tables - GitHub Docs
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-docs-github-com-en-get-started-writing-on-github-working-w-18e4588872d)
 [Read Original](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
-## Highlights
+### Highlights
 
 > You can align text to the left, right, or center of a column by including colons `:` to the left, right, or on both sides of the hyphens within the header row. [⤴️](https://omnivore.app/me/https-docs-github-com-en-get-started-writing-on-github-working-w-18e4588872d#eab58769-4e6a-4712-b11d-b827c58fd3d5)  ^eab58769
 

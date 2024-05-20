@@ -11,13 +11,13 @@ site_name: GitHub
 original_url: https://github.com/mdelobelle/obsidian_supercharged_links/blob/master/README.md
 ---
 
-# obsidian_supercharged_links/README.md at master · mdelobelle/obsidian_supercharged_links · GitHub
+## obsidian_supercharged_links/README.md at master · mdelobelle/obsidian_supercharged_links · GitHub
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-mdelobelle-obsidian-supercharged-links-blob-mas-18e7a7e0a57)
 [Read Original](https://github.com/mdelobelle/obsidian_supercharged_links/blob/master/README.md)
 
-## Highlights
+### Highlights
 
 > ## Supercharged Links
 > 

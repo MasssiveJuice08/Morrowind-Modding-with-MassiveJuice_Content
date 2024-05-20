@@ -10,13 +10,13 @@ site_name: Bulma Clean Theme
 original_url: https://www.csrhymes.com/bulma-clean-theme/2020/05/08/creating-a-docs-site-with-bulma-clean-theme/
 ---
 
-# Creating a docs site with Bulma Clean Theme | Bulma Clean Theme
+## Creating a docs site with Bulma Clean Theme | Bulma Clean Theme
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-www-csrhymes-com-bulma-clean-theme-2020-05-08-creating-a-d-18e4bd46ccc)
 [Read Original](https://www.csrhymes.com/bulma-clean-theme/2020/05/08/creating-a-docs-site-with-bulma-clean-theme/)
 
-## Highlights
+### Highlights
 
 > One of the key things I wanted to do was to create a theme that worked with GitHub Pages, which also means that you can also use it as a docs site for your project. [⤴️](https://omnivore.app/me/https-www-csrhymes-com-bulma-clean-theme-2020-05-08-creating-a-d-18e4bd46ccc#ffa2049d-b388-4087-9531-7369409acf45)  ^ffa2049d
 

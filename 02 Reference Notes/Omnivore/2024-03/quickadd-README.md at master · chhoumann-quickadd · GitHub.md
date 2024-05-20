@@ -10,13 +10,13 @@ site_name: GitHub
 original_url: https://github.com/chhoumann/quickadd/blob/master/README.md
 ---
 
-# quickadd/README.md at master · chhoumann/quickadd · GitHub
+## quickadd/README.md at master · chhoumann/quickadd · GitHub
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-chhoumann-quickadd-blob-master-readme-md-18e6c002d5d)
 [Read Original](https://github.com/chhoumann/quickadd/blob/master/README.md)
 
-## Highlights
+### Highlights
 
 > ## QuickAdd
 > 

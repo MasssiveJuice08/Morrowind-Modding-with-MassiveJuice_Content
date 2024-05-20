@@ -11,13 +11,13 @@ site_name: charts.phib.ro
 original_url: https://charts.phib.ro/Meta/Charts/Charts+Documentation
 ---
 
-# Charts Documentation - Charts Plugin
+## Charts Documentation - Charts Plugin
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-charts-phib-ro-meta-charts-charts-documentation-18e6ef80aa5)
 [Read Original](https://charts.phib.ro/Meta/Charts/Charts+Documentation)
 
-## Highlights
+### Highlights
 
 > Charts let's you create interactive Charts inside [Obsidian](https://www.obsidian.md/):
 > 

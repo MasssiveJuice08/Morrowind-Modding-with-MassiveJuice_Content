@@ -11,13 +11,13 @@ site_name: GitHub
 original_url: https://github.com/javalent/obsidian-leaflet/blob/main/README.md
 ---
 
-# obsidian-leaflet/README.md at main · javalent/obsidian-leaflet · GitHub
+## obsidian-leaflet/README.md at main · javalent/obsidian-leaflet · GitHub
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-javalent-obsidian-leaflet-blob-main-readme-md-18e6f01e4d8)
 [Read Original](https://github.com/javalent/obsidian-leaflet/blob/main/README.md)
 
-## Highlights
+### Highlights
 
 > Adds interactable mapping functionality to Obsidian.md, using [Leaflet.js](https://leafletjs.com/)
 > 

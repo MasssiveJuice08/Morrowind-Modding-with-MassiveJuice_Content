@@ -10,13 +10,13 @@ site_name: GitHub
 original_url: https://github.com/vslinko/obsidian-outliner/blob/main/README.md
 ---
 
-# obsidian-outliner/README.md at main · vslinko/obsidian-outliner · GitHub
+## obsidian-outliner/README.md at main · vslinko/obsidian-outliner · GitHub
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-vslinko-obsidian-outliner-blob-main-readme-md-18e6bed8883)
 [Read Original](https://github.com/vslinko/obsidian-outliner/blob/main/README.md)
 
-## Highlights
+### Highlights
 
 > ### Move lists back and forth
 > 

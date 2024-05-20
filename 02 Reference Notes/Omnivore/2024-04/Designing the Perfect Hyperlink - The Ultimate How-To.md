@@ -11,13 +11,13 @@ site_name: WebFX
 original_url: https://www.webfx.com/blog/web-design/hyperlink-design/
 ---
 
-# Designing the Perfect Hyperlink - The Ultimate How-To
+## Designing the Perfect Hyperlink - The Ultimate How-To
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/designing-the-perfect-hyperlink-the-ultimate-how-to-18e981945be)
 [Read Original](https://www.webfx.com/blog/web-design/hyperlink-design/)
 
-## Highlights
+### Highlights
 
 > Hyperlinks Need to Look Like Hyperlinks
 >  All your hyperlinks need to stand out and clearly say to your readers, “Hey I’m a link. You can click on me.” Hyperlinks should appear interactable.

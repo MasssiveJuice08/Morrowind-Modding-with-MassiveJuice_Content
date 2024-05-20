@@ -10,13 +10,13 @@ site_name: w3schools.com
 original_url: https://www.w3schools.com/html/html_favicon.asp
 ---
 
-# HTML Favicon
+## HTML Favicon
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/html-favicon-18e88c5cc0d)
 [Read Original](https://www.w3schools.com/html/html_favicon.asp)
 
-## Highlights
+### Highlights
 
 > ## How To Add a Favicon in HTML
 > 

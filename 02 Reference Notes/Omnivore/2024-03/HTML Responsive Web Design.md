@@ -10,13 +10,13 @@ site_name: w3schools.com
 original_url: https://www.w3schools.com/html/html_responsive.asp
 ---
 
-# HTML Responsive Web Design
+## HTML Responsive Web Design
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/html-responsive-web-design-18e8e459fc7)
 [Read Original](https://www.w3schools.com/html/html_responsive.asp)
 
-## Highlights
+### Highlights
 
 > ## Media Queries
 > 

@@ -4,7 +4,7 @@ tags:
   - MOC
 ---
 
-![[MMW_Logo.png|center]]
+![[MMW_Logo.png|hm-sm center]]
 
 ---
 

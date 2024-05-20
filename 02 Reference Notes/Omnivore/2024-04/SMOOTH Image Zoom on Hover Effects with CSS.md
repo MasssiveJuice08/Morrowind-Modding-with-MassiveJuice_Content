@@ -11,13 +11,13 @@ site_name: W3Bits
 original_url: https://w3bits.com/css-image-hover-zoom/
 ---
 
-# SMOOTH Image Zoom on Hover Effects with CSS
+## SMOOTH Image Zoom on Hover Effects with CSS
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-w-3-bits-com-css-image-hover-zoom-18f1a310388)
 [Read Original](https://w3bits.com/css-image-hover-zoom/)
 
-## Highlights
+### Highlights
 
 > We need a container element which will be hovered and then the image inside it should animate accordingly, i.e. zoom-in or zoom-out as per the need.
 > 

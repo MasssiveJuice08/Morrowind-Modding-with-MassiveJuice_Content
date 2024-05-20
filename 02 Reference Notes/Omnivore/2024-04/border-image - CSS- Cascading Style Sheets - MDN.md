@@ -13,13 +13,13 @@ site_name: MDN Web Docs
 original_url: https://developer.mozilla.org/en-US/docs/Web/CSS/border-image
 ---
 
-# border-image - CSS: Cascading Style Sheets | MDN
+## border-image - CSS: Cascading Style Sheets | MDN
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/border-image-css-cascading-style-sheets-mdn-18ee15ee84c)
 [Read Original](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image)
 
-## Highlights
+### Highlights
 
 > The border-imageCSS property draws an image around a given element. It replaces the element's regular border. [⤴️](https://omnivore.app/me/border-image-css-cascading-style-sheets-mdn-18ee15ee84c#30361dd5-8d71-46e2-82a3-57458424c107)  ^30361dd5
 

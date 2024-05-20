@@ -11,13 +11,13 @@ site_name: govtnz.github.io
 original_url: https://govtnz.github.io/web-a11y-guidance/wct/abbreviations/
 ---
 
-# Abbreviations — Web Accessibility Guidance project — NZ Government
+## Abbreviations — Web Accessibility Guidance project — NZ Government
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/abbreviations-web-accessibility-guidance-project-nz-government-18e750dd719)
 [Read Original](https://govtnz.github.io/web-a11y-guidance/wct/abbreviations/)
 
-## Highlights
+### Highlights
 
 > If an abbreviation has not become part of the language, provide one of the following in text right before or after the abbreviation’s first instance on the page:
 > its expanded form

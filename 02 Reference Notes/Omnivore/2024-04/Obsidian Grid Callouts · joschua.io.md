@@ -11,13 +11,13 @@ site_name: joschua.io
 original_url: https://joschua.io/posts/2022/12/04/obsidian-grid-callouts/
 ---
 
-# Obsidian Grid Callouts · joschua.io
+## Obsidian Grid Callouts · joschua.io
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/obsidian-grid-callouts-joschua-io-18e9c3f29f0)
 [Read Original](https://joschua.io/posts/2022/12/04/obsidian-grid-callouts/)
 
-## Highlights
+### Highlights
 
 > ## Implementation
 > 

@@ -10,13 +10,13 @@ site_name: GitHub
 original_url: https://github.com/pjeby/tag-wrangler/blob/master/README.md
 ---
 
-# tag-wrangler/README.md at master · pjeby/tag-wrangler · GitHub
+## tag-wrangler/README.md at master · pjeby/tag-wrangler · GitHub
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-pjeby-tag-wrangler-blob-master-readme-md-18e6c0ef91c)
 [Read Original](https://github.com/pjeby/tag-wrangler/blob/master/README.md)
 
-## Highlights
+### Highlights
 
 > This plugin adds a context menu for tags in the [Obsidian.md](https://obsidian.md/) tag pane, with the following actions available:
 > 

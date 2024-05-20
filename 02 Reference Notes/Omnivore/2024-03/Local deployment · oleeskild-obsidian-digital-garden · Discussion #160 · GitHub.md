@@ -10,13 +10,13 @@ site_name: GitHub
 original_url: https://github.com/oleeskild/obsidian-digital-garden/discussions/160
 ---
 
-# Local deployment · oleeskild/obsidian-digital-garden · Discussion #160 · GitHub
+## Local deployment · oleeskild/obsidian-digital-garden · Discussion #160 · GitHub
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/local-deployment-oleeskild-obsidian-digital-garden-discussion-16-18e501c54ac)
 [Read Original](https://github.com/oleeskild/obsidian-digital-garden/discussions/160)
 
-## Highlights
+### Highlights
 
 > I threw something together you could use to run this locally:
 > 

@@ -10,13 +10,13 @@ site_name: Stack Overflow
 original_url: https://stackoverflow.com/questions/2196980/what-is-the-benefit-to-using-acronym-and-abbr
 ---
 
-# html - What is the benefit to using <acronym> and <abbr>? - Stack Overflow
+## html - What is the benefit to using <acronym> and <abbr>? - Stack Overflow
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/html-what-is-the-benefit-to-using-acronym-and-abbr-stack-overflo-18e74691668)
 [Read Original](https://stackoverflow.com/questions/2196980/what-is-the-benefit-to-using-acronym-and-abbr)
 
-## Highlights
+### Highlights
 
 > There is likely to be no or infinitesimally small SEO benefit from using these tags unless the abbreviation is not well known or something you made up or there is some ambiguity. For example, in an article about LILO the Linux Loader, you may want to specify <acronymtitle="Linux Loader">LILO</acronym> to avoid confusion with Last In, Last Out.
 > Any accessibility benefit would exist only for those acronyms and abbreviations that are not well known by the target audience. For instance, it makes very little to no sense to have <abbr lang="en"title="Mister">Mr.</abbr> (WCAG checkpoint 4.2 disagrees with me on this. Note also that I did not provide an expansion of WCAG in my post).

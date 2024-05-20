@@ -9,13 +9,13 @@ site_name: OpenGraph
 original_url: https://www.opengraph.xyz
 ---
 
-# OpenGraph - Preview Social Media Share and Generate Metatags - OpenGraph
+## OpenGraph - Preview Social Media Share and Generate Metatags - OpenGraph
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-www-opengraph-xyz-18f786e357f)
 [Read Original](https://www.opengraph.xyz)
 
-## Highlights
+### Highlights
 
 > ### **Title Tag**
 > 

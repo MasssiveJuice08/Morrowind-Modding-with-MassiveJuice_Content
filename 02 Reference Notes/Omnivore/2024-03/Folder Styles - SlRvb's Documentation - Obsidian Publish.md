@@ -10,13 +10,13 @@ site_name: publish.obsidian.md
 original_url: https://publish.obsidian.md/slrvb-docs/ITS+Theme/Folder+Styles
 ---
 
-# Folder Styles - SlRvb's Documentation - Obsidian Publish
+## Folder Styles - SlRvb's Documentation - Obsidian Publish
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/folder-styles-sl-rvb-s-documentation-obsidian-publish-18e5b7dceb8)
 [Read Original](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Folder+Styles)
 
-## Highlights
+### Highlights
 
 > Resources to help with icons
 > 

@@ -10,13 +10,13 @@ site_name: GitHub
 original_url: https://github.com/mgmeyers/obsidian-copy-block-link/blob/main/README.md
 ---
 
-# obsidian-copy-block-link/README.md at main · mgmeyers/obsidian-copy-block-link · GitHub
+## obsidian-copy-block-link/README.md at main · mgmeyers/obsidian-copy-block-link · GitHub
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-mgmeyers-obsidian-copy-block-link-blob-main-rea-18e7d1f76ac)
 [Read Original](https://github.com/mgmeyers/obsidian-copy-block-link/blob/main/README.md)
 
-## Highlights
+### Highlights
 
 > ## Obsidian Copy Block Link
 > 

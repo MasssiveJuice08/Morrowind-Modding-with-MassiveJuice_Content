@@ -11,13 +11,13 @@ site_name: dhiwise.com
 original_url: https://www.dhiwise.com/post/how-to-create-and-use-font-awesome-custom-icons
 ---
 
-# Create and Use Font Awesome Custom Icons for Your Website
+## Create and Use Font Awesome Custom Icons for Your Website
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-www-dhiwise-com-post-how-to-create-and-use-font-awesome-cu-18ec20683c6)
 [Read Original](https://www.dhiwise.com/post/how-to-create-and-use-font-awesome-custom-icons)
 
-## Highlights
+### Highlights
 
 > While Font Awesome provides a vast library of icons, there may be instances where you need a custom icon or a set of custom icons that are unique to your project. This is where the power of custom icons comes into play.
 > 

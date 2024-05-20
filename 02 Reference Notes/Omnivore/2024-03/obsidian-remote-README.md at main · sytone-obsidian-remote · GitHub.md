@@ -10,13 +10,13 @@ site_name: GitHub
 original_url: https://github.com/sytone/obsidian-remote/blob/main/README.md
 ---
 
-# obsidian-remote/README.md at main · sytone/obsidian-remote · GitHub
+## obsidian-remote/README.md at main · sytone/obsidian-remote · GitHub
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-sytone-obsidian-remote-blob-main-readme-md-18e4eaa0585)
 [Read Original](https://github.com/sytone/obsidian-remote/blob/main/README.md)
 
-## Highlights
+### Highlights
 
 > ## obsidian-remote
 > 

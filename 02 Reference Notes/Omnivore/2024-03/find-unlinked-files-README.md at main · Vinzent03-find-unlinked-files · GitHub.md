@@ -10,13 +10,13 @@ site_name: GitHub
 original_url: https://github.com/Vinzent03/find-unlinked-files/blob/main/README.md
 ---
 
-# find-unlinked-files/README.md at main · Vinzent03/find-unlinked-files · GitHub
+## find-unlinked-files/README.md at main · Vinzent03/find-unlinked-files · GitHub
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-vinzent-03-find-unlinked-files-blob-main-readme-18e6efeba91)
 [Read Original](https://github.com/Vinzent03/find-unlinked-files/blob/main/README.md)
 
-## Highlights
+### Highlights
 
 > ## Find orphaned files (files with no backlinks) and broken links
 > 

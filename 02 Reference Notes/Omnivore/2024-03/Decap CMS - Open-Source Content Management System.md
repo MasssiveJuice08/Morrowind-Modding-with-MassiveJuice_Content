@@ -10,13 +10,13 @@ site_name: decapcms.org
 original_url: https://decapcms.org
 ---
 
-# Decap CMS | Open-Source Content Management System
+## Decap CMS | Open-Source Content Management System
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-decapcms-org-18e4bcc3a4a)
 [Read Original](https://decapcms.org)
 
-## Highlights
+### Highlights
 
 > ### Static + content management = ♥
 > 

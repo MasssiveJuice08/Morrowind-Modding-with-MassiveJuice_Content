@@ -9,13 +9,13 @@ site_name: TrustedSec
 original_url: https://www.trustedsec.com/blog/obsidian-taming-a-collective-consciousness
 ---
 
-# TrustedSec | Obsidian, Taming a Collective Consciousness
+## TrustedSec | Obsidian, Taming a Collective Consciousness
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/trusted-sec-obsidian-taming-a-collective-consciousness-18e56204d1d)
 [Read Original](https://www.trustedsec.com/blog/obsidian-taming-a-collective-consciousness)
 
-## Highlights
+### Highlights
 
 > Our Obsidian Git configuration consists of the following settings:
 > 

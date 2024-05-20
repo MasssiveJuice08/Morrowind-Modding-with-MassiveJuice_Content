@@ -10,13 +10,13 @@ site_name: obsidianttrpgtutorials.com
 original_url: https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Plugin+Tutorials/Dataview/Dataview+-+List+Content+From+Current+Folder+Only
 ---
 
-# Dataview - List Content From Current Folder Only - Obsidian TTRPG Tutorials
+## Dataview - List Content From Current Folder Only - Obsidian TTRPG Tutorials
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/dataview-list-content-from-current-folder-only-obsidian-ttrpg-tu-18e5b279431)
 [Read Original](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Plugin+Tutorials/Dataview/Dataview+-+List+Content+From+Current+Folder+Only)
 
-## Highlights
+### Highlights
 
 > This might be handy for limiting your queries to only return results from the current folder. 
 > 

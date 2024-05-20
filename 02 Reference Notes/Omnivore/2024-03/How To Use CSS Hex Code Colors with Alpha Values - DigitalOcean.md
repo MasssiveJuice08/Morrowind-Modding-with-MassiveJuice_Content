@@ -10,13 +10,13 @@ site_name: DigitalOcean
 original_url: https://www.digitalocean.com/community/tutorials/css-hex-code-colors-alpha-values
 ---
 
-# How To Use CSS Hex Code Colors with Alpha Values | DigitalOcean
+## How To Use CSS Hex Code Colors with Alpha Values | DigitalOcean
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/how-to-use-css-hex-code-colors-with-alpha-values-digital-ocean-18e40b39af0)
 [Read Original](https://www.digitalocean.com/community/tutorials/css-hex-code-colors-alpha-values)
 
-## Highlights
+### Highlights
 
 > ## [Adding an Alpha Value to CSS Hex Codes](#adding-an-alpha-value-to-css-hex-codes)
 > 

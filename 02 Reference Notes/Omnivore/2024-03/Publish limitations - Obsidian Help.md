@@ -10,13 +10,13 @@ site_name: help.obsidian.md
 original_url: https://help.obsidian.md/Obsidian+Publish/Publish+limitations
 ---
 
-# Publish limitations - Obsidian Help
+## Publish limitations - Obsidian Help
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-help-obsidian-md-obsidian-publish-publish-limitations-18e85d9963d)
 [Read Original](https://help.obsidian.md/Obsidian+Publish/Publish+limitations)
 
-## Highlights
+### Highlights
 
 > Plugins which output in raw markdown, such as the Waypoint plugin, are compatible with Publish because they do not require the application to render their data. 
 > 

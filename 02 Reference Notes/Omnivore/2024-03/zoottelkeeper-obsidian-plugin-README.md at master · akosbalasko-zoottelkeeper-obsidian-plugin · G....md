@@ -10,13 +10,13 @@ site_name: GitHub
 original_url: https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin/blob/master/README.md
 ---
 
-# zoottelkeeper-obsidian-plugin/README.md at master · akosbalasko/zoottelkeeper-obsidian-plugin · GitHub
+## zoottelkeeper-obsidian-plugin/README.md at master · akosbalasko/zoottelkeeper-obsidian-plugin · GitHub
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-akosbalasko-zoottelkeeper-obsidian-plugin-blob--18e7d0aaacb)
 [Read Original](https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin/blob/master/README.md)
 
-## Highlights
+### Highlights
 
 > ## 2\. How does it work?
 > 

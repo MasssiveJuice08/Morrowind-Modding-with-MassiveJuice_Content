@@ -10,13 +10,13 @@ site_name: Jamie Todd Rubin
 original_url: https://jamierubin.net/2022/03/08/practically-paperless-with-obsidian-episode-21-tags-in-theory-and-tags-in-practice-and-never-the-twain-shall-meet/
 ---
 
-# Practically Paperless with Obsidian, Episode 21: Tags in Theory and Tags in Practice (And Never the Twain Shall Meet?) – Jamie Todd Rubin
+## Practically Paperless with Obsidian, Episode 21: Tags in Theory and Tags in Practice (And Never the Twain Shall Meet?) – Jamie Todd Rubin
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-jamierubin-net-2022-03-08-practically-paperless-with-obsid-18e85a49939)
 [Read Original](https://jamierubin.net/2022/03/08/practically-paperless-with-obsidian-episode-21-tags-in-theory-and-tags-in-practice-and-never-the-twain-shall-meet/)
 
-## Highlights
+### Highlights
 
 > What is needed for tags is some kind of taxonomy: a set of rules to follow for when to apply tags, when to create a new tag, and how tags relate to the information they are organizing. [⤴️](https://omnivore.app/me/https-jamierubin-net-2022-03-08-practically-paperless-with-obsid-18e85a49939#e87a553f-9434-4578-b9c5-e330df6257c8)  ^e87a553f
 

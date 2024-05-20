@@ -10,13 +10,13 @@ site_name: GitHub
 original_url: https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/blob/main/README.md
 ---
 
-# obsidian-various-complements-plugin/README.md at main · tadashi-aikawa/obsidian-various-complements-plugin · GitHub
+## obsidian-various-complements-plugin/README.md at main · tadashi-aikawa/obsidian-various-complements-plugin · GitHub
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-tadashi-aikawa-obsidian-various-complements-plu-18e6be79455)
 [Read Original](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/blob/main/README.md)
 
-## Highlights
+### Highlights
 
 > This plugin for [Obsidian](https://obsidian.md/) enables you complete words like the auto-completion of IDE.
 > 

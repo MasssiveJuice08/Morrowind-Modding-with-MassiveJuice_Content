@@ -13,13 +13,13 @@ site_name: CSS-Tricks
 original_url: https://css-tricks.com/snippets/css/using-font-face-in-css/
 ---
 
-# How to use @font-face in CSS | CSS-Tricks - CSS-Tricks
+## How to use @font-face in CSS | CSS-Tricks - CSS-Tricks
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-css-tricks-com-snippets-css-using-font-face-in-css-18eb82d077c)
 [Read Original](https://css-tricks.com/snippets/css/using-font-face-in-css/)
 
-## Highlights
+### Highlights
 
 > The `@font-face` rule allows custom fonts to be loaded on a webpage. Once added to a stylesheet, the rule instructs the browser to download the font from where it is hosted, then display it as specified in the CSS.
 > 

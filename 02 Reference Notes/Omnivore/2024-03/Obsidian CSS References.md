@@ -10,13 +10,13 @@ site_name: docs.dev0.sh
 original_url: https://docs.dev0.sh/tools/obsidian/css-snippets/
 ---
 
-# Obsidian CSS References
+## Obsidian CSS References
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-docs-dev-0-sh-tools-obsidian-css-snippets-18e58b5812a)
 [Read Original](https://docs.dev0.sh/tools/obsidian/css-snippets/)
 
-## Highlights
+### Highlights
 
 > This is a collection of various CSS snippets for [Obsidian](https://docs.dev0.sh/404), made mostly by me but I also include several made by others as reference and to make sharing easier. [⤴️](https://omnivore.app/me/https-docs-dev-0-sh-tools-obsidian-css-snippets-18e58b5812a#1145162e-cb1c-4292-86ab-b2f69333b21c)  ^1145162e
 

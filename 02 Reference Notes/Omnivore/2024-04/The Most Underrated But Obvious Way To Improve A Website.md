@@ -11,13 +11,13 @@ site_name: YouTube
 original_url: https://m.youtube.com/watch?feature=youtu.be&si=XQctZlBj9hRgBhyD&v=HYQLfOOZlgw
 ---
 
-# The Most Underrated But Obvious Way To Improve A Website
+## The Most Underrated But Obvious Way To Improve A Website
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-m-youtube-com-watch-feature-youtu-be-si-x-qct-zl-bj-9-h-rg-18ea2133050)
 [Read Original](https://m.youtube.com/watch?feature=youtu.be&si=XQctZlBj9hRgBhyD&v=HYQLfOOZlgw)
 
-## Highlights
+### Highlights
 
 > [The Most Underrated But Obvious Way To Improve A Website](https://m.youtube.com/watch?feature=youtu.be&si=XQctZlBj9hRgBhyD&v=HYQLfOOZlgw) [⤴️](https://omnivore.app/me/https-m-youtube-com-watch-feature-youtu-be-si-x-qct-zl-bj-9-h-rg-18ea2133050#db583f6b-5b12-4fe0-adf9-f6985c93d842)  ^db583f6b
 

@@ -11,13 +11,13 @@ site_name: GitHub
 original_url: https://github.com/oleeskild/obsidian-digital-garden/issues/80
 ---
 
-# Embedding YouTube Videos in Obsidian Digital Garden
+## Embedding YouTube Videos in Obsidian Digital Garden
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-oleeskild-obsidian-digital-garden-issues-80-18e546c8a93)
 [Read Original](https://github.com/oleeskild/obsidian-digital-garden/issues/80)
 
-## Highlights
+### Highlights
 
 > What you could do right now to make this possible is to use the embed feature of youtube videos. This would create a youtube player in your note. (This should work both in obsidian and in your garden). It would look something like this:
 > 
