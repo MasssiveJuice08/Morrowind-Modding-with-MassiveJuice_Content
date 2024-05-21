@@ -7,6 +7,7 @@ author: |
 tags:
   - Obsidian/CSS
   - MMW-Dev/SEO
+  - omnivore-bug
 date_saved: 2024-03-25 20:00:28
 site_name: Stack Overflow
 original_url: https://omnivore.app/me/html-what-is-the-benefit-to-using-acronym-and-abbr-stack-overflo-18e74691668
@@ -24,9 +25,9 @@ dg-metatags:
 
 ### Highlights
 
-> There is likely to be no or infinitesimally small SEO benefit from using these tags unless the abbreviation is not well known or something you made up or there is some ambiguity. For example, in an article about LILO the Linux Loader, you may want to specify <acronymtitle="Linux Loader">LILO</acronym> to avoid confusion with Last In, Last Out.
-> Any accessibility benefit would exist only for those acronyms and abbreviations that are not well known by the target audience. For instance, it makes very little to no sense to have <abbr lang="en"title="Mister">Mr.</abbr> (WCAG checkpoint 4.2 disagrees with me on this. Note also that I did not provide an expansion of WCAG in my post).
-> On the other hand, if you use are not using IMF to refer to the International Monetary Fund, it might make sense to use <acronym lang="en"title="Impossible Mission Force">IMF</acronym>.
+> There is likely to be no or infinitesimally small SEO benefit from using these tags unless the abbreviation is not well known or something you made up or there is some ambiguity. For example, in an article about LILO the Linux Loader, you may want to specify `<acronymtitle="Linux Loader">LILO</acronym>` to avoid confusion with Last In, Last Out.
+> Any accessibility benefit would exist only for those acronyms and abbreviations that are not well known by the target audience. For instance, it makes very little to no sense to have `<abbr lang="en"title="Mister">Mr.</abbr>` (WCAG checkpoint 4.2 disagrees with me on this. Note also that I did not provide an expansion of WCAG in my post).
+> On the other hand, if you use are not using IMF to refer to the International Monetary Fund, it might make sense to use `<acronym lang="en"title="Impossible Mission Force">IMF</acronym>`.
 > Now, what happens if you also want to use IMF to mean International Monetary Fund in the same document?
 > The article The Accessibility Hat Trick: Getting Abbreviations Right might also be useful.
 > Interesting nuggets:

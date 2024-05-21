@@ -1,6 +1,19 @@
 ---
 id: 6f89d50a-b59c-4ca9-ad71-a37564ff473c
-omnivore_error: There was an error parsing the front matter template. See console for details.
+title: |
+  Wikipedia:Did you know - Wikipedia
+author: |
+  unknown
+tags:
+  - MMW-Dev/Community
+date_saved: 2024-04-11 20:04:46
+date_published: 2004-04-03 12:00:00
+site_name: en.m.wikipedia.org
+original_url: https://omnivore.app/me/https-en-m-wikipedia-org-wiki-wikipedia-did-you-know-18ecc300a0f
+dg-publish: true
+dg-metatags:
+  description: Wikipedia - The Did You Know section showcases new or expanded articles that are selected through an informal review process. It is not a general trivia section. The choice of articles is subject to a set of criteria that are set out on this page.
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## Wikipedia:Did you know - Wikipedia

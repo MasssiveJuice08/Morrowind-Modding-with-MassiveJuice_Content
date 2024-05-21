@@ -1,6 +1,20 @@
 ---
 id: 7b3fd749-fb58-4dc2-a37d-f6e7bcda8643
-omnivore_error: There was an error parsing the front matter template. See console for details.
+title: |
+  The Most Underrated But Obvious Way To Improve A Website
+author: |
+  The Website Architect
+tags:
+  - MMW-Dev/SEO
+  - MMW-Style
+date_saved: 2024-04-03 16:49:10
+date_published: 2024-03-29 13:00:00
+site_name: YouTube
+original_url: https://omnivore.app/me/https-m-youtube-com-watch-feature-youtu-be-si-x-qct-zl-bj-9-h-rg-18ea2133050
+dg-publish: true
+dg-metatags:
+  description: The Most Underrated But Obvious Way To Improve A Website
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
 ## The Most Underrated But Obvious Way To Improve A Website

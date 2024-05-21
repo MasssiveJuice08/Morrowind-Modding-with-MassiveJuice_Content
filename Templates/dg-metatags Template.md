@@ -1,5 +1,5 @@
 ```
 dg-metatags:
- description: 
+ description: ""
  og:image: https://i.imgur.com/LmCg5HX.png
 ```

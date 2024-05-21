@@ -7,6 +7,7 @@ author: |
 tags:
   - MMW-Dev/Alternative-Sites/DG
   - Obsidian-DG/Videos
+  - omnivore-bug
 date_saved: 2024-03-19 14:56:26
 date_published: 2022-10-17 13:00:00
 site_name: GitHub
@@ -27,12 +28,11 @@ dg-metatags:
 
 > What you could do right now to make this possible is to use the embed feature of youtube videos. This would create a youtube player in your note. (This should work both in obsidian and in your garden). It would look something like this:
 > 
-> ```maxima
-> 
-> 
+> ```html
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/djV11Xbc914" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 > ```
 > 
 > The downside of course is that you would have to upload the video to youtube first. [⤴️](https://omnivore.app/me/https-github-com-oleeskild-obsidian-digital-garden-issues-80-18e546c8a93#37948ab8-f578-4ef2-9ea3-88cf7ec97eae)  ^37948ab8
 
-iframe code missing
+iframe code missing when pubished to Obsidian.
 
