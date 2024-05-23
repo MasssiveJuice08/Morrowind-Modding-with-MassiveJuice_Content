@@ -2,6 +2,12 @@
 dg-publish: true
 tags:
   - MOC
+  - NGasta-Pasta
+dg-metatags:
+  description: N'Gasta Pasta - a Morrowind mod by MassiveJuice
+  og:image: https://i.imgur.com/LmCg5HX.png
+aliases:
+  - N'Gasta Pasta
 ---
 ## N'Gasta Pasta
 

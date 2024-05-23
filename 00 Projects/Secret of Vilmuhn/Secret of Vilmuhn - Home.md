@@ -2,6 +2,12 @@
 dg-publish: true
 tags:
   - MOC
+  - Secret-of-Vilmuhn
+dg-metatags:
+  description: Secret of Vilmuhm - a Morrowind mod by GrumblingVomit and MassiveJuice
+  og:image: https://i.imgur.com/LmCg5HX.png
+aliases:
+  - Secret of Vilmuhn
 ---
 ## Secret of Vilmuhn
 

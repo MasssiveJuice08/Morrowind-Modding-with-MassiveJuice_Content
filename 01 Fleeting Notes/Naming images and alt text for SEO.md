@@ -2,6 +2,7 @@
 tags:
   - Quartz/HTML
   - MMW-Style
+dg-publish: true
 ---
 ![[2024-03-16_naming_img_for_SEO_HTML.jpg]]
 

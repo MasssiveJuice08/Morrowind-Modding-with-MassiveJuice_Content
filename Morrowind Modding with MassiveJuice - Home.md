@@ -2,8 +2,10 @@
 dg-publish: true
 dg-home: true
 dg-metatags:
- description: Morrowind Modding with MassiveJuice
- og:image: https://i.imgur.com/LmCg5HX.png
+  description: Morrowind Modding with MassiveJuice
+  og:image: https://i.imgur.com/LmCg5HX.png
+aliases:
+  - Home
 ---
 
 ## Welcome! 

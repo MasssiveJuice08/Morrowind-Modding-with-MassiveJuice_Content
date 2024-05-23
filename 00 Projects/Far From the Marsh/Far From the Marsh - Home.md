@@ -2,8 +2,14 @@
 tags:
   - MW-May-Modathon-2024
   - MOC
+  - Far-From-Home
 cssclasses: 
 dg-publish: true
+dg-metatags:
+  description: Far From the Marsh a Morrowind mod by MassiveJuice
+  og:image: https://i.imgur.com/LmCg5HX.png
+aliases:
+  - Far From Home
 ---
 ## Far From the Marsh
 

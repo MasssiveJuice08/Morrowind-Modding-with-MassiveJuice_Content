@@ -2,6 +2,7 @@
 tags:
   - MMW-Dev/Workflow
   - Quartz/UI
+dg-publish: true
 ---
 [Modding-OpenMW](https://modding-openmw.com/) uses a 'Report a Problem' button on content pages, which links directly to the Gitlab repository's Issues page.
 

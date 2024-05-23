@@ -1,6 +1,7 @@
 ---
 tags:
   - MMW-Style
+dg-publish: true
 ---
 Morrowind concept art could add a lot of flair to the wiki. 
 - Could be added to heavily text-based guides as a way to break up the content. 

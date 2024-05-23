@@ -4,19 +4,19 @@ tags:
   - Quartz
   - MMW-Dev/CSS
 ---
-# Site CSS & JS Features Required
+## Site CSS & JS Features Required
 
-## Wiki-Style Layout:
+### Wiki-Style Layout:
 
 These features must be implemented before being able to implement a clear wiki-style article layout guideline.
 
 > [!todo] High Priority
 >
 > - [x] [Wiki-Style Infobox Callouts](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/20)
-> - [x] Ability to both align and resize images on a page
+> - [x] Ability to resize images, adjust float, and display as banner
 > - [x] Fix `[!figure]` Callout
->    - [x] reduce font size
->    - [x] ability to align on page with text wrapping around it
+> 	- [x] reduce font size
+>     - [x] ability to align on page with text wrapping around it
 
 > [!todo] Medium Priority
 > 
@@ -27,10 +27,10 @@ These features must be implemented before being able to implement a clear wiki-s
 > [!todo] Low Priority
 > 
 > - [ ] [Add 'Img-Comparison-Slider'](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/21)
-> - [ ] [['kbd' HTML Element in Markdown|Add CSS style for keyboard input HTML element]] "\<kbd\>" to differentiate it from \`code\`
+> - [x] [['kbd' HTML Element in Markdown|Add CSS style for keyboard input HTML element]] "\<kbd\>" to differentiate it from \`code\`
 
 
-## Misc
+### Misc
 
 > [!todo] Misc
 >

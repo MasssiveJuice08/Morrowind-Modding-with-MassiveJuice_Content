@@ -3,6 +3,7 @@ tags:
   - MMW-Dev/Accessibility
   - MMW-Dev/CSS
   - MMW-Style
+dg-publish: true
 ---
 the `<kbd> </kbd>` HTML element is used to denote keyboard input (such as "ctrl + alt + del"). Markdown uses backticks to define \`code\`, which in practice is a catch-all for `<kbd>`, `<samp>` (sample computer code output), and `code` HTML elements. By default, the aforementioned HTML elements are styled the same by default, but can be made to be rendered differently. Github renders `<kbd>` elements differently from \`code\`, but Obsidian does not do so by default.
 
