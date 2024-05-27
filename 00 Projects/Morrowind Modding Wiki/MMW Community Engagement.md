@@ -1,3 +1,8 @@
+---
+tags:
+  - MMW-Dev/Community
+dg-publish: true
+---
 ## Intro
 
 An inviting and intriguing community is more likely to garner interest and engagement. Fostering this community could encourage more users to contribute content to the Morrowind Modding Wiki, something which will always be an uphill struggle as modders tend to prefer _creating_ game content over _documenting_ it. 
