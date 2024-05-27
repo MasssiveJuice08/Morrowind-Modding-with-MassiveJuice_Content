@@ -1,9 +1,9 @@
 ---
 id: ea8d6aa5-23e6-4c78-8d8b-8265047a1746
 title: |
-  border-image - CSS: Cascading Style Sheets | MDN
+  MDN - 'border-image Property' - CSS
 author: |
-  unknown
+  MDN
 tags:
   - MMW-Dev/CSS
   - Obsidian/Callouts
@@ -19,7 +19,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## border-image - CSS: Cascading Style Sheets | MDN
+## MDN - 'border-image Property' - CSS
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/border-image-css-cascading-style-sheets-mdn-18ee15ee84c)

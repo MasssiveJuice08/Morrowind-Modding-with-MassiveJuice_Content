@@ -1,7 +1,7 @@
 ---
 id: f7654ca9-57b9-494f-a752-94f2f8482502
 title: |
-  obsidian_supercharged_links/README.md at master · mdelobelle/obsidian_supercharged_links · GitHub
+  Obsidian Plugin - 'Supercharged Links'
 author: |
   mdelobelle
 tags:
@@ -13,11 +13,11 @@ site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-mdelobelle-obsidian-supercharged-links-blob-mas-18e7a7e0a57
 dg-publish: true
 dg-metatags:
-  description: obsidian plugin to add attributes and context menu options to internal links - mdelobelle/obsidian_supercharged_links
+  description: Obsidian plugin to add attributes and context menu options to internal links
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## obsidian_supercharged_links/README.md at master · mdelobelle/obsidian_supercharged_links · GitHub
+## Obsidian Plugin - 'Supercharged Links'
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-mdelobelle-obsidian-supercharged-links-blob-mas-18e7a7e0a57)

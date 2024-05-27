@@ -1,7 +1,7 @@
 ---
 id: d5c0cb93-fc97-4f54-8ea0-f292188a616a
 title: |
-  tag-wrangler/README.md at master · pjeby/tag-wrangler · GitHub
+  Obsidian Plugin - 'Tag Wrangler'
 author: |
   pjeby
 tags:
@@ -12,11 +12,11 @@ site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-pjeby-tag-wrangler-blob-master-readme-md-18e6c0ef91c
 dg-publish: true
 dg-metatags:
-  description: Rename, merge, toggle, and search tags from the Obsidian tag pane - pjeby/tag-wrangler
+  description: Rename, merge, toggle, and search tags from the Obsidian tag pane.
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## tag-wrangler/README.md at master · pjeby/tag-wrangler · GitHub
+## Obsidian Plugin - 'Tag Wrangler'
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-pjeby-tag-wrangler-blob-master-readme-md-18e6c0ef91c)

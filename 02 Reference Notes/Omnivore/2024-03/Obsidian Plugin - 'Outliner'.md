@@ -1,7 +1,7 @@
 ---
 id: f1d4f779-bc4a-4dde-9ee9-0a69b697449b
 title: |
-  obsidian-outliner/README.md at main · vslinko/obsidian-outliner · GitHub
+  Obsidian Plugin - 'Outliner'
 author: |
   vslinko
 tags:
@@ -12,11 +12,11 @@ site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-vslinko-obsidian-outliner-blob-main-readme-md-18e6bed8883
 dg-publish: true
 dg-metatags:
-  description: Work with your lists like in Workflowy or RoamResearch - vslinko/obsidian-outliner
+  description: Work with your lists like in Workflowy or RoamResearch
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## obsidian-outliner/README.md at main · vslinko/obsidian-outliner · GitHub
+## Obsidian Plugin - 'Outliner'
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-vslinko-obsidian-outliner-blob-main-readme-md-18e6bed8883)

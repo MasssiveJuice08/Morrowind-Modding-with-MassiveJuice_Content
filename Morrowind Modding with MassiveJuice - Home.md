@@ -51,4 +51,8 @@ Rupert is my number one obsession. I'm his biggest fan. He is 'da boy', 'he who 
 
 ---
 
-![[Homepage-Banner.png|banner-tall]]
+> [!caption|sban]
+> 
+> ![[Homepage-Banner.png|banner-tall]]
+> 
+> _Secret of Vilmuhn_

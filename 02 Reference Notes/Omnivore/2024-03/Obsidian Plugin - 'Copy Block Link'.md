@@ -1,7 +1,7 @@
 ---
 id: cf290c9c-46b0-4a64-b701-29e1c4a03ede
 title: |
-  obsidian-copy-block-link/README.md at main · mgmeyers/obsidian-copy-block-link · GitHub
+  Obsidian Plugin - 'Copy Block Link'
 author: |
   mgmeyers
 tags:
@@ -12,11 +12,11 @@ site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-mgmeyers-obsidian-copy-block-link-blob-main-rea-18e7d1f76ac
 dg-publish: true
 dg-metatags:
-  description: Get links to blocks and headings from Obsidian's right click menu. - mgmeyers/obsidian-copy-block-link
+  description: Get links to blocks and headings from Obsidian's right click menu.
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## obsidian-copy-block-link/README.md at main · mgmeyers/obsidian-copy-block-link · GitHub
+## Obsidian Plugin - 'Copy Block Link'
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-mgmeyers-obsidian-copy-block-link-blob-main-rea-18e7d1f76ac)

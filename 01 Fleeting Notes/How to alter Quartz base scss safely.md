@@ -1,6 +1,8 @@
 ---
 tags:
   - Quartz/CSS
+  - MMW-Dev/CSS
+dg-publish: true
 ---
 ## Altering Quartz base.scss safely without conflicts when updating Quartz:
 

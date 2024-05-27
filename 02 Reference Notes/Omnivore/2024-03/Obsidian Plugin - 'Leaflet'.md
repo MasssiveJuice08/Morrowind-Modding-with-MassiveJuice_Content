@@ -1,7 +1,7 @@
 ---
 id: 93b3bfaf-af76-4aa8-ab1f-74e2b6eff84a
 title: |
-  obsidian-leaflet/README.md at main · javalent/obsidian-leaflet · GitHub
+  Obsidian Plugin - 'Leaflet'
 author: |
   javalent
 tags:
@@ -13,11 +13,11 @@ site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-javalent-obsidian-leaflet-blob-main-readme-md-18e6f01e4d8
 dg-publish: true
 dg-metatags:
-  description: Adds interactive maps to Obsidian.md using Leaflet.js - javalent/obsidian-leaflet
+  description: Adds interactive maps to Obsidian.md using Leaflet.js
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## obsidian-leaflet/README.md at main · javalent/obsidian-leaflet · GitHub
+## Obsidian Plugin - 'Leaflet'
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-javalent-obsidian-leaflet-blob-main-readme-md-18e6f01e4d8)

@@ -1,22 +1,21 @@
 ---
 id: c435560b-0718-4f77-a11c-10ebc050e0ad
 title: |
-  obsidian-remote/README.md at main · sytone/obsidian-remote · GitHub
+  'Obsidian Remote' - running Obsidian in a docker container
 author: |
   sytone
 tags:
   - MMW-Dev/CMS
-  - MMW-Dev/Alternative-Sites
 date_saved: 2024-03-18 12:05:51
 site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-sytone-obsidian-remote-blob-main-readme-md-18e4eaa0585
 dg-publish: true
 dg-metatags:
-  description: Run Obsidian.md in a browser via a docker container. - sytone/obsidian-remote
+  description: Run Obsidian.md in a browser via a docker container.
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## obsidian-remote/README.md at main · sytone/obsidian-remote · GitHub
+## 'Obsidian Remote' - running Obsidian in a docker container
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-sytone-obsidian-remote-blob-main-readme-md-18e4eaa0585)

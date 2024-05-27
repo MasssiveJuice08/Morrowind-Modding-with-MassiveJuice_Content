@@ -17,4 +17,5 @@ tags:
 - [x] add link to website in my other projects
 - [ ] add note icons
 	- [ ] utilize Jacey's Vector Icons or create my own.
-- [ ] Fix mobile page-width
+- [x] Fix mobile page-width
+- [ ] integrate github commits

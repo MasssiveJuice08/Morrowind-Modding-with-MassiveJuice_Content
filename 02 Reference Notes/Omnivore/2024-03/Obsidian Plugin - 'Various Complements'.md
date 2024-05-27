@@ -1,7 +1,7 @@
 ---
 id: 76395099-cbe3-4551-8a7f-aee7637cb885
 title: |
-  obsidian-various-complements-plugin/README.md at main · tadashi-aikawa/obsidian-various-complements-plugin · GitHub
+  Obsidian Plugin - 'Various Complements'
 author: |
   tadashi-aikawa
 tags:
@@ -12,11 +12,11 @@ site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-tadashi-aikawa-obsidian-various-complements-plu-18e6be79455
 dg-publish: true
 dg-metatags:
-  description: This plugin for Obsidian enables you complete words like the auto-completion of IDE. - tadashi-aikawa/obsidian-various-complements-plugin
+  description: This plugin for Obsidian enables you complete words like the auto-completion of IDE.
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## obsidian-various-complements-plugin/README.md at main · tadashi-aikawa/obsidian-various-complements-plugin · GitHub
+## Obsidian Plugin - 'Various Complements'
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-tadashi-aikawa-obsidian-various-complements-plu-18e6be79455)

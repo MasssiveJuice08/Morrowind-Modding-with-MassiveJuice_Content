@@ -1,7 +1,7 @@
 ---
 id: c1bd2a76-6819-457d-a269-10161439b2fc
 title: |
-  zoottelkeeper-obsidian-plugin/README.md at master · akosbalasko/zoottelkeeper-obsidian-plugin · GitHub
+  Obsidian Plugin - 'Zoottelkeeper'
 author: |
   akosbalasko
 tags:
@@ -12,11 +12,11 @@ site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-akosbalasko-zoottelkeeper-obsidian-plugin-blob--18e7d0aaacb
 dg-publish: true
 dg-metatags:
-  description: "Obsidian plugin of Zoottelkeeper: An automated folder-level index file generator and maintainer. - akosbalasko/zoottelkeeper-obsidian-plugin"
+  description: "Zoottelkeeper: An automated folder-level index file generator and maintainer for Obsidian."
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## zoottelkeeper-obsidian-plugin/README.md at master · akosbalasko/zoottelkeeper-obsidian-plugin · GitHub
+## Obsidian Plugin - 'Zoottelkeeper'
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-akosbalasko-zoottelkeeper-obsidian-plugin-blob--18e7d0aaacb)
