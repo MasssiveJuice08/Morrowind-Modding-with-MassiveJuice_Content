@@ -11,6 +11,7 @@ tags:
 date_saved: 2024-05-25 17:07:37
 site_name: en.m.uesp.net
 original_url: https://omnivore.app/me/https-en-m-uesp-net-wiki-battlespire-mysticism-18fae25a28a
+state: reading
 dg-publish: true
 dg-metatags:
   description: UESP article on the Mysticism skill in 'Battlespire'

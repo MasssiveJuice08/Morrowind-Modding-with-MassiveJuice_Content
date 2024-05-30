@@ -1,4 +1,5 @@
 ---
+state: completed
 id: 89e0abab-3317-43c8-92ed-a3b2278acf6b
 title: |
   html - What is the benefit to using <acronym> and <abbr>? - Stack Overflow

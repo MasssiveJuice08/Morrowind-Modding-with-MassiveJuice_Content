@@ -11,6 +11,7 @@ tags:
 date_saved: 2024-04-30 19:59:28
 site_name: en.uesp.net
 original_url: https://omnivore.app/me/morrowind-progress-of-truth-the-unofficial-elder-scrolls-pages-u-18f2e040c86
+state: reading
 dg-publish: true
 dg-metatags:
   description: The UESPWiki – Your source for The Elder Scrolls since 1995

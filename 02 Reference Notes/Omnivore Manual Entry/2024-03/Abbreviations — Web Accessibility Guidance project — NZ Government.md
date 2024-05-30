@@ -1,4 +1,5 @@
 ---
+state: completed
 id: 97241440-f2c0-4359-a22a-ae61f3d135ae
 title: |
   Abbreviations — Web Accessibility Guidance project — NZ Government

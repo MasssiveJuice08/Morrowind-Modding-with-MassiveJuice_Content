@@ -10,6 +10,7 @@ tags:
 date_saved: 2024-03-24 04:48:57
 site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-chhoumann-quickadd-blob-master-readme-md-18e6c002d5d
+state: completed
 dg-publish: true
 dg-metatags:
   description: QuickAdd is a powerful combination of four tools (called choices) - templates, captures, macros, and multis.

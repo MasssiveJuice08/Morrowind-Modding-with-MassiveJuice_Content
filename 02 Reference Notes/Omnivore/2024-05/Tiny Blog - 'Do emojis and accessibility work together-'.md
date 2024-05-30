@@ -11,6 +11,7 @@ date_saved: 2024-05-27 18:19:24
 date_published: 2023-06-27 12:00:00
 site_name: Blog by Tiny
 original_url: https://omnivore.app/me/do-emojis-and-accessibility-work-together-18fb8b42405
+state: completed
 dg-publish: true
 dg-metatags:
   description: An article from Tiny Blog on how to make emojis in web content accessible.

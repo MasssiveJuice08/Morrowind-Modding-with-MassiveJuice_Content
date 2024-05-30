@@ -6,6 +6,8 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 aliases:
   - Home
+dg-pinned: true
+title: Home
 ---
 
 ## Welcome! 
@@ -14,7 +16,7 @@ aliases:
 
 Kia ora, I'm **MassiveJuice**!
 
-I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process.
+I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process. I also host my blog here, [[MassiveJuice's Morrowind Modding Blog]]
 
 ## Projects
 
@@ -29,9 +31,25 @@ I make Morrowind mods and one day I hope to actually finish one of them. You can
 > **[[N'Gasta Pasta - Home|N'Gasta Pasta]]**
 > [![[N'Gasta-Pasta_Banner.webp|sban htiny ctr]]](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/n-gasta-pasta/n-gasta-pasta-home/)
 > 
-> **[[Morrowind Modding Wiki - Home|Morrowind Modding Wiki]]**
-> [![[MMW_Logo.png|sban htiny ctr p+bc]]](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/morrowind-modding-wiki/morrowind-modding-wiki-home/)
+> **[[Redoran Hut Diorama - Birthday Present for my Sister|Dioramas]]**
+> ![[Redoran-Hut_Bday_Front.jpg|sban htiny ctr]]
 
+> [!cards|1 ]
+> **[[Morrowind Modding Wiki - Home|Morrowind Modding Wiki]]**
+> [![Morrowind Modding Wiki logo|sban htiny ctr](https://i.imgur.com/vyx7Hna.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/morrowind-modding-wiki/morrowind-modding-wiki-home/)
+
+### [[MassiveJuice's Morrowind Modding Blog|Recent Blog Posts]]
+
+> [!cards|1 dataview] 
+> ```dataview 
+> TABLE WITHOUT ID 
+> 	"![|sban cover hmicro](" + image + ")" as Image, 
+> 	"**"+ link(file.link, title) + "**" AS "Column Name", 
+> created AS "Modified"
+> FROM "03 Blog" AND -"03 Blog/MassiveJuice's Morrowind Modding Blog"
+> SORT created asc
+> LIMIT 3
+> ```
 
 ## Who is Rupert?
 

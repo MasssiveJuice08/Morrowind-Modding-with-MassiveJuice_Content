@@ -11,6 +11,7 @@ tags:
 date_saved: 2024-04-30 20:06:25
 site_name: en.uesp.net
 original_url: https://omnivore.app/me/lore-peakstar-the-unofficial-elder-scrolls-pages-uesp-18f2e0a6910
+state: reading
 dg-publish: true
 dg-metatags:
   description: The UESPWiki – Your source for The Elder Scrolls since 1995

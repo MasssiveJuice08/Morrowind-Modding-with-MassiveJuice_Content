@@ -1,4 +1,5 @@
 ---
+state: completed
 tags:
   - MMW-Style
 dg-publish: true

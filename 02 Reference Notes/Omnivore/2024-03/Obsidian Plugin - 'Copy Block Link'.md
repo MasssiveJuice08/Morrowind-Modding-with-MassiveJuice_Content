@@ -10,6 +10,7 @@ tags:
 date_saved: 2024-03-27 12:36:40
 site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-mgmeyers-obsidian-copy-block-link-blob-main-rea-18e7d1f76ac
+state: reading
 dg-publish: true
 dg-metatags:
   description: Get links to blocks and headings from Obsidian's right click menu.

@@ -11,6 +11,7 @@ tags:
 date_saved: 2024-03-24 18:38:54
 site_name: charts.phib.ro
 original_url: https://omnivore.app/me/https-charts-phib-ro-meta-charts-charts-documentation-18e6ef80aa5
+state: completed
 dg-publish: true
 dg-metatags:
   description: Charts Documentation - Charts Plugin

@@ -10,6 +10,7 @@ tags:
 date_saved: 2024-03-24 18:46:14
 site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-vinzent-03-find-unlinked-files-blob-main-readme-18e6efeba91
+state: reading
 dg-publish: true
 dg-metatags:
   description: Obsidian plugin to find files which are not linked to and may be lost in your vault.

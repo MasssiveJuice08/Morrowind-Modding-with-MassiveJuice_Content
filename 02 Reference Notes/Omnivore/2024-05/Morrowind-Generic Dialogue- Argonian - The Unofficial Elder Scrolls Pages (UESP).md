@@ -9,6 +9,7 @@ tags:
 date_saved: 2024-05-03 21:30:03
 site_name: en.uesp.net
 original_url: https://omnivore.app/me/morrowind-generic-dialogue-a-the-unofficial-elder-scrolls-pages--18f3dca0d47
+state: reading
 dg-publish: true
 dg-metatags:
   description: The UESPWiki – Your source for The Elder Scrolls since 1995

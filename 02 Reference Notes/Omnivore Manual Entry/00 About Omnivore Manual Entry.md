@@ -1,4 +1,5 @@
 ---
+state: completed
 dg-publish: true
 dg-metatags:
  description: "Workarounds for importing bugged Omnivore articles to Obsidian"

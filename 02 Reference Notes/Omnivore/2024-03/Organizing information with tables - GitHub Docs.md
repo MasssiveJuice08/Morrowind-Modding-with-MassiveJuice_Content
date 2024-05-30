@@ -9,6 +9,7 @@ tags:
 date_saved: 2024-03-16 17:32:40
 site_name: GitHub Docs
 original_url: https://omnivore.app/me/https-docs-github-com-en-get-started-writing-on-github-working-w-18e4588872d
+state: reading
 dg-publish: true
 dg-metatags:
   description: You can build tables to organize information in comments, issues, pull requests, and wikis.

@@ -1,4 +1,5 @@
 ---
+state: completed
 id: dce9c695-de77-4948-b5f9-b02d5372544f
 title: |
   Embedding YouTube Videos in Obsidian Digital Garden

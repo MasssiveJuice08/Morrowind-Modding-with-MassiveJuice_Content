@@ -10,6 +10,7 @@ tags:
 date_saved: 2024-03-20 10:54:36
 site_name: docs.dev0.sh
 original_url: https://omnivore.app/me/https-docs-dev-0-sh-tools-obsidian-css-snippets-18e58b5812a
+state: inbox
 dg-publish: true
 dg-metatags:
   description: This is a collection of various CSS snippets for Obsidian, made mostly by me but I also include several made by others as reference and to make sharing easier.

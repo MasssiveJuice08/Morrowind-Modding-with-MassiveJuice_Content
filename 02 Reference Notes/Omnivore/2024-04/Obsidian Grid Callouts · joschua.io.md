@@ -11,6 +11,7 @@ date_saved: 2024-04-02 13:39:29
 date_published: 2022-12-04 13:00:00
 site_name: joschua.io
 original_url: https://omnivore.app/me/obsidian-grid-callouts-joschua-io-18e9c3f29f0
+state: completed
 dg-publish: true
 dg-metatags:
   description: How to arrange content in Obsidian in columns without any plugins.

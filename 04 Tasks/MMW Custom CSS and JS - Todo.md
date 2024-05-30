@@ -3,8 +3,9 @@ tags:
   - MMW-Style
   - Quartz
   - MMW-Dev/CSS
+  - todo
 ---
-## Site CSS & JS Features Required
+## CSS & JS Features Required for the [[Morrowind Modding Wiki - Home|Morrowind Modding Wiki]]
 
 ### Wiki-Style Layout:
 
@@ -21,19 +22,28 @@ These features must be implemented before being able to implement a clear wiki-s
 > [!todo] Medium Priority
 > 
 > - [/] [Create Maintenance Template Callouts](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/26)
->     - [ ] Create custom Morrowind style icons – see [[MMW Custom Icons]]
 > - [x] [Add Grid-Style Callouts](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/22)
 
 > [!todo] Low Priority
-> 
-> - [ ] [Add 'Img-Comparison-Slider'](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/21)
-> - [x] [['kbd' HTML Element in Markdown|Add CSS style for keyboard input HTML element]] "\<kbd\>" to differentiate it from \`code\`
 
 
-### Misc
 
-> [!todo] Misc
+### Style
+
+> [!todo]
 >
+> - [ ] Create custom Morrowind style icons – see [[MMW Custom Icons]]
+
+### UX/UI
+
+> [!todo] Important
+> 
 > - [ ] [[Missing Custom Download Link Styling for MMW]]
-> - [ ] Add custom website [favicon](https://www.w3schools.com/html/html_favicon.asp) (edit `/quartz/static/icon.png`)
+> - [x] Add custom website [favicon](https://www.w3schools.com/html/html_favicon.asp) (edit `/quartz/static/icon.png`)
+> - [x] [['kbd' HTML Element in Markdown|Add CSS style for keyboard input HTML element]] "\<kbd\>" to differentiate it from \`code\`
+> - [ ] set template .md files to `draft: true`
+
+> [!todo] Luxuries
+>
+> - [ ] [Add 'Img-Comparison-Slider'](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/21)
 > - [ ] [[SMOOTH Image Zoom on Hover Effects with CSS]] - homepage topic cards for each subject (e.g., 'Guides', 'Modding Tools')

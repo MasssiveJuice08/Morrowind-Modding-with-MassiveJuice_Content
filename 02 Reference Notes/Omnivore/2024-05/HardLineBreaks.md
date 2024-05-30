@@ -9,6 +9,7 @@ tags:
 date_saved: 2024-05-26 10:05:10
 site_name: quartz.jzhao.xyz
 original_url: https://omnivore.app/me/https-quartz-jzhao-xyz-plugins-hard-line-breaks-18fb1c94605
+state: inbox
 dg-publish: true
 dg-metatags:
   description: This plugin automatically converts single line breaks in Markdown text into hard line breaks in the HTML output. This plugin is not enabled by default as this doesn’t follow the semantics of actual Markdown but you may enable it if you’d like parity with Obsidian.

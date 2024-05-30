@@ -9,6 +9,7 @@ tags:
 date_saved: 2024-05-15 06:47:21
 site_name: OpenGraph
 original_url: https://omnivore.app/me/https-www-opengraph-xyz-18f786e357f
+state: completed
 dg-publish: true
 dg-metatags:
   description: OpenGraph is the easiest way to preview and generate open graph meta tags for any website.

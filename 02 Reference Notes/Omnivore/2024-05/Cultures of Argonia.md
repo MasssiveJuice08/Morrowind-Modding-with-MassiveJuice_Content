@@ -9,6 +9,7 @@ tags:
 date_saved: 2024-05-10 19:59:45
 site_name: omnivore.app
 original_url: https://omnivore.app/me/u-074-cea-4-b-a-5-c-5-4-e-65-9-b-3-d-2-cac-27272-d-50-culturesof-18f6183e662
+state: reading
 dg-publish: true
 dg-metatags:
   description: Notes on Tamriel Rebuilt and Project Tamriel's development of Black Marsh

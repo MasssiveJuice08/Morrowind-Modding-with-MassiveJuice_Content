@@ -10,6 +10,7 @@ tags:
 date_saved: 2024-03-24 04:22:06
 site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-tadashi-aikawa-obsidian-various-complements-plu-18e6be79455
+state: reading
 dg-publish: true
 dg-metatags:
   description: This plugin for Obsidian enables you complete words like the auto-completion of IDE.

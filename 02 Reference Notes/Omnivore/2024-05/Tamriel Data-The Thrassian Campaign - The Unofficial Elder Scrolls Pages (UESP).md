@@ -11,6 +11,7 @@ tags:
 date_saved: 2024-05-12 19:15:15
 site_name: en.m.uesp.net
 original_url: https://omnivore.app/me/https-en-m-uesp-net-wiki-tamriel-data-the-thrassian-campaign-18f6ba7d261
+state: reading
 dg-publish: true
 dg-metatags:
   description: On the nature of the Sload, collected from the Notes of Bendu Olo, West King of Anvil and Baron-Admiral of the All Flags Navy, and Dealer of Swift Justice to the Foul Spot of Thras.

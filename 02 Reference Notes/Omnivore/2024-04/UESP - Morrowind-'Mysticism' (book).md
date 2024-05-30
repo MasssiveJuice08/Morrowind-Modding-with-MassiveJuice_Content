@@ -10,6 +10,7 @@ tags:
 date_saved: 2024-04-30 19:41:31
 site_name: en.uesp.net
 original_url: https://omnivore.app/me/morrowind-mysticism-book-the-unofficial-elder-scrolls-pages-uesp-18f2df39ed1
+state: reading
 dg-publish: true
 dg-metatags:
   description: UESP article on the book 'Mysticism' found in Morrowind

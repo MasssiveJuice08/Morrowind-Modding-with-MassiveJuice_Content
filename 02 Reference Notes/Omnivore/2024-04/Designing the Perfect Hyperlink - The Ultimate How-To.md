@@ -11,6 +11,7 @@ tags:
 date_saved: 2024-04-01 18:19:37
 site_name: WebFX
 original_url: https://omnivore.app/me/designing-the-perfect-hyperlink-the-ultimate-how-to-18e981945be
+state: reading
 dg-publish: true
 dg-metatags:
   description: The design of hyperlinks can affect the usability of your web pages and also the user experience. Here are some tips to improve hyperlink designs.

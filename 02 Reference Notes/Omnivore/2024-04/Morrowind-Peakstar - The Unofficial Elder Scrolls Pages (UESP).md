@@ -9,6 +9,7 @@ tags:
 date_saved: 2024-04-30 20:10:59
 site_name: en.uesp.net
 original_url: https://omnivore.app/me/morrowind-peakstar-the-unofficial-elder-scrolls-pages-uesp-18f2e0e8263
+state: inbox
 dg-publish: true
 dg-metatags:
   description: The UESPWiki – Your source for The Elder Scrolls since 1995

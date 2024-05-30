@@ -11,6 +11,7 @@ tags:
 date_saved: 2024-05-13 10:43:17
 site_name: en.m.uesp.net
 original_url: https://omnivore.app/me/https-en-m-uesp-net-wiki-tamriel-data-a-loathsome-civilization-18f6ef97869
+state: reading
 dg-publish: true
 dg-metatags:
   description: A Loathsome Civilization

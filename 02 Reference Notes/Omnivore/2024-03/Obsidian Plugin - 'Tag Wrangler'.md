@@ -10,6 +10,7 @@ tags:
 date_saved: 2024-03-24 05:05:07
 site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-pjeby-tag-wrangler-blob-master-readme-md-18e6c0ef91c
+state: reading
 dg-publish: true
 dg-metatags:
   description: Rename, merge, toggle, and search tags from the Obsidian tag pane.

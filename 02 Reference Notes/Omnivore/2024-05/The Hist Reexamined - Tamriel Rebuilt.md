@@ -10,6 +10,7 @@ date_saved: 2024-05-10 19:07:09
 date_published: 2016-08-27 12:05:00
 site_name: tamriel-rebuilt.org
 original_url: https://omnivore.app/me/https-www-tamriel-rebuilt-org-forum-hist-reexamined-18f6153b6d8
+state: reading
 dg-publish: true
 dg-metatags:
   description: ""

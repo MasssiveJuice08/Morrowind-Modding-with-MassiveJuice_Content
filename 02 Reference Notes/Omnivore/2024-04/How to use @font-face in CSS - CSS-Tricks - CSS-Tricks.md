@@ -13,6 +13,7 @@ date_saved: 2024-04-07 22:49:07
 date_published: 2009-08-11 12:05:06
 site_name: CSS-Tricks
 original_url: https://omnivore.app/me/https-css-tricks-com-snippets-css-using-font-face-in-css-18eb82d077c
+state: reading
 dg-publish: true
 dg-metatags:
   description: The @font-face rule allows custom fonts to be loaded on a webpage. Once added to a stylesheet, the rule instructs the browser to download the font from where

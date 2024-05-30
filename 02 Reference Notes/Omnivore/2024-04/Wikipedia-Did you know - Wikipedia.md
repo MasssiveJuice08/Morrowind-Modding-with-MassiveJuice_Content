@@ -10,6 +10,7 @@ date_saved: 2024-04-11 20:04:46
 date_published: 2004-04-03 12:00:00
 site_name: en.m.wikipedia.org
 original_url: https://omnivore.app/me/https-en-m-wikipedia-org-wiki-wikipedia-did-you-know-18ecc300a0f
+state: reading
 dg-publish: true
 dg-metatags:
   description: Wikipedia - The Did You Know section showcases new or expanded articles that are selected through an informal review process. It is not a general trivia section. The choice of articles is subject to a set of criteria that are set out on this page.

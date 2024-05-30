@@ -10,6 +10,7 @@ tags:
 date_saved: 2024-03-27 12:13:58
 site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-akosbalasko-zoottelkeeper-obsidian-plugin-blob--18e7d0aaacb
+state: reading
 dg-publish: true
 dg-metatags:
   description: "Zoottelkeeper: An automated folder-level index file generator and maintainer for Obsidian."

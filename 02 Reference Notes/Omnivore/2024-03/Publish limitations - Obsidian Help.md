@@ -10,6 +10,7 @@ tags:
 date_saved: 2024-03-29 05:16:55
 site_name: help.obsidian.md
 original_url: https://omnivore.app/me/https-help-obsidian-md-obsidian-publish-publish-limitations-18e85d9963d
+state: reading
 dg-publish: true
 dg-metatags:
   description: Publish limitations - Obsidian Help

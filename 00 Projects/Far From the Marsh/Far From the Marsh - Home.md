@@ -1,4 +1,5 @@
 ---
+state: in-progress
 tags:
   - MW-May-Modathon-2024
   - MOC
@@ -52,16 +53,28 @@ A Mages Guild member studying hidden patterns of Mysticism and prophecy has gone
 You can find ther cave west of Dagon Fel. Follow the road west and then north to a river crossing – the cave entrance is on the left.
 
 <br>
+<br>
+<br>
 
 ---
 
-### Project Notes - Contents:
+### Project Notes - Contents
 
-```dataview
-TABLE without ID file.link as "Note Title", file.mday as "Last Modified"
-FROM #MW-May-Modathon-2024 AND -#Omnivore AND -#MOC
-SORT file.name asc
-```
+> [!example|bg-gray c-orange]+ Project Notes
+> 
+> ```dataview
+> TABLE without ID file.link as "Note Title", file.mday as "Last Modified"
+> FROM #MW-May-Modathon-2024 AND -#Omnivore AND -#MOC
+> SORT file.name asc
+> ```
+
+> [!example|bg-gray c-orange]+ Reference Notes
+> 
+> ```dataview
+> TABLE without ID file.link as "Note Title", file.mday as "Last Modified"
+> FROM #MW-May-Modathon-2024 AND #Omnivore
+> SORT file.name asc
+> ```
 
 ### Creative Process - Quest Writing:
 
@@ -100,15 +113,9 @@ Week one theme - **'Mysticism and Prophecy'**
 
 ---
 
-### Reference Notes - Contents:
-
-```dataview
-TABLE without ID file.link as "Note Title", file.mday as "Last Modified"
-FROM #MW-May-Modathon-2024 AND #Omnivore
-SORT file.name asc
-```
-
 ### To-Do
 - [ ] Jeelish-Tar's journal starts at Sun's Dawn month but talks of New Year; change month to Morning Star.
+- [ ] Finish cave
+- [ ] Finish quest dialogue and add journal entries
 
 [^1]: I say 'its' ideas because authorship and plagiarism with AI language models is a contentious subject. Despite how thorough my creative prompts and feedback are, what ChatGPT outputs might still be a facsimile of someone else's work. Therefore, the final stage of heavily editing ChatGPT's work _without_ its input is a vital step to ensure that the final product is not unwitting plagiarism

@@ -9,6 +9,7 @@ tags:
 date_saved: 2024-03-14 20:00:33
 site_name: en.uesp.net
 original_url: https://omnivore.app/me/uesp-wiki-copyright-and-ownership-the-unofficial-elder-scrolls-p-18e3bbde267
+state: reading
 dg-publish: true
 dg-metatags:
   description: The UESPWiki – Your source for The Elder Scrolls since 1995

@@ -10,6 +10,7 @@ date_saved: 2024-03-18 18:53:03
 date_published: 2023-01-12 13:00:00
 site_name: GitHub
 original_url: https://omnivore.app/me/local-deployment-oleeskild-obsidian-digital-garden-discussion-16-18e501c54ac
+state: completed
 dg-publish: true
 dg-metatags:
   description: Github discussion demonstrating how to set up a local deployment of Obsidian Digital Garden

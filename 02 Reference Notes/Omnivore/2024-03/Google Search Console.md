@@ -9,6 +9,7 @@ tags:
 date_saved: 2024-03-30 16:59:55
 site_name: search.google.com
 original_url: https://omnivore.app/me/https-search-google-com-search-console-about-18e8d839007
+state: reading
 dg-publish: true
 dg-metatags:
   description: ""

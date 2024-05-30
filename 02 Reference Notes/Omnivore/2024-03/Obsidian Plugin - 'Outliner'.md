@@ -10,6 +10,7 @@ tags:
 date_saved: 2024-03-24 04:28:35
 site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-vslinko-obsidian-outliner-blob-main-readme-md-18e6bed8883
+state: reading
 dg-publish: true
 dg-metatags:
   description: Work with your lists like in Workflowy or RoamResearch

@@ -9,6 +9,7 @@ tags:
 date_saved: 2024-03-18 12:05:51
 site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-sytone-obsidian-remote-blob-main-readme-md-18e4eaa0585
+state: reading
 dg-publish: true
 dg-metatags:
   description: Run Obsidian.md in a browser via a docker container.

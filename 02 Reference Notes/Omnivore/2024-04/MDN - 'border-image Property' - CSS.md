@@ -13,6 +13,7 @@ date_saved: 2024-04-15 22:47:57
 date_published: 2024-01-12 21:26:55
 site_name: MDN Web Docs
 original_url: https://omnivore.app/me/border-image-css-cascading-style-sheets-mdn-18ee15ee84c
+state: reading
 dg-publish: true
 dg-metatags:
   description: The border-image CSS property draws an image around a given element. It replaces the element's regular border.

@@ -1,4 +1,5 @@
 ---
+state: in-progress
 tags:
   - MMW-Style/Icons
   - MMW-Dev/CSS
@@ -6,7 +7,7 @@ dg-publish: true
 ---
 ## Using Custom Icons in the Morrowind Modding Wiki
 
-> [!caption|clean right no-t]
+> [!caption|clean right no-t txt-s]
 > 
 > | Callout  | Lucide Icon                      | TES3 Icon                   |
 > | -------- | -------------------------------- | --------------------------- |

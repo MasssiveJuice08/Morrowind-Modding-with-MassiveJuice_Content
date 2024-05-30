@@ -10,6 +10,7 @@ tags:
 date_saved: 2024-03-20 23:52:35
 site_name: publish.obsidian.md
 original_url: https://omnivore.app/me/folder-styles-sl-rvb-s-documentation-obsidian-publish-18e5b7dceb8
+state: reading
 dg-publish: true
 dg-metatags:
   description: ITS Theme - SlRvb's Documentation - Powered by Obsidian Publish.

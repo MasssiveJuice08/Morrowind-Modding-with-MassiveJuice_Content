@@ -10,6 +10,7 @@ date_saved: 2024-03-17 22:53:19
 date_published: 2020-05-08 21:00:07
 site_name: Bulma Clean Theme
 original_url: https://omnivore.app/me/https-www-csrhymes-com-bulma-clean-theme-2020-05-08-creating-a-d-18e4bd46ccc
+state: reading
 dg-publish: true
 dg-metatags:
   description: How to create a docs site for your project with Bulma Clean Theme

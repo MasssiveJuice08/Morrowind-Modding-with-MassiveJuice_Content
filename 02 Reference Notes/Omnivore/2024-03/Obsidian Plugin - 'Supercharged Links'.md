@@ -11,6 +11,7 @@ tags:
 date_saved: 2024-03-27 00:21:07
 site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-mdelobelle-obsidian-supercharged-links-blob-mas-18e7a7e0a57
+state: reading
 dg-publish: true
 dg-metatags:
   description: Obsidian plugin to add attributes and context menu options to internal links

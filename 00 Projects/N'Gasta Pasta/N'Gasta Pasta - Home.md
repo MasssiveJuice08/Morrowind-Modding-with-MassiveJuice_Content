@@ -1,4 +1,5 @@
 ---
+state: completed
 dg-publish: true
 tags:
   - MOC

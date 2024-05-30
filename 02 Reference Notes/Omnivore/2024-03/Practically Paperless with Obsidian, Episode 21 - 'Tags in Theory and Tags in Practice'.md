@@ -10,6 +10,7 @@ date_saved: 2024-03-29 04:19:02
 date_published: 2022-03-09 02:00:00
 site_name: Jamie Todd Rubin
 original_url: https://omnivore.app/me/https-jamierubin-net-2022-03-08-practically-paperless-with-obsid-18e85a49939
+state: reading
 dg-publish: true
 dg-metatags:
   description: A dissection of the subject of using tags for organising digital notes
