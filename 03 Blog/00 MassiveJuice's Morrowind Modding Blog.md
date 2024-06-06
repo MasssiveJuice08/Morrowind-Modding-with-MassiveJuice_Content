@@ -7,6 +7,9 @@ tags:
   - blog
   - MOC
 dg-pinned: true
+title: MassiveJuice's Morrowind Modding Blog
+aliases:
+  - MassiveJuice's Morrowind Modding Blog
 ---
 ## About
 
@@ -18,7 +21,7 @@ This page is an index of my blog posts.
 > 	"![|sban cover hmicro](" + image + ")" as Image, 
 > 	"**"+ link(file.link, title) + "**" AS "Column Name", 
 > created AS "Modified"
-> FROM "03 Blog" AND -"03 Blog/MassiveJuice's Morrowind Modding Blog"
+> FROM "03 Blog" AND -"03 Blog/00 MassiveJuice's Morrowind Modding Blog"
 > SORT created desc
 > ```
 

@@ -1,5 +1,5 @@
 ---
-state: in-progress
+state: completed
 tags:
   - Quartz/CSS
   - MMW-Dev/CSS

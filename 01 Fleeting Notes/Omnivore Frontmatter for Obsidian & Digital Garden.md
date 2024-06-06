@@ -1,12 +1,11 @@
 ---
-state: in-progress
+state: completed
 tags:
   - My-Website
 dg-publish: true
-dg-publish: true
 dg-metatags:
- description: "How I publish Onnivore article highlights from Obsidian to my Digital Garden"
- og:image: https://i.imgur.com/LmCg5HX.png
+  description: How I publish Onnivore article highlights from Obsidian to my Digital Garden
+  og:image: https://i.imgur.com/LmCg5HX.png
 ---
 ## Publishing Omnivore notes from Obsidian to Digital Garden
 

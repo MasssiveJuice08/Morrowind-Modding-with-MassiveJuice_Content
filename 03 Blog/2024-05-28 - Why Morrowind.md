@@ -44,11 +44,11 @@ dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
 > [!info|clean no-t txt-c]
 >Tuesday, May 28, 2024
 
-> [!abstract|clean no-t no-i ws-sm]
+> [!abstract|clean no-t no-i]
 >
-> > [!caption|left txt-s wm-sm]
+> > [!caption|left txt-s ws-med]
 > > 
-> > ![[Vivec-City-Cocept-Art.jpg|profile-medium|150x150]]
+> > ![[Vivec-City-Cocept-Art.jpg|profile-medium wsmall hsmall]]
 > > 
 > > 'Vivec City' concept art by [Michael Kirkbride](https://en.uesp.net/wiki/General:Michael_Kirkbride) 
 >

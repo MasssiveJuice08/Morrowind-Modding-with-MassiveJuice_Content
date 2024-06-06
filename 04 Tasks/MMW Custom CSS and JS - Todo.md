@@ -21,7 +21,10 @@ These features must be implemented before being able to implement a clear wiki-s
 
 > [!todo] Medium Priority
 > 
-> - [/] [Create Maintenance Template Callouts](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/26)
+> - [x] [Create Maintenance Template Callouts](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/26)
+> 	- [ ] Create templates
+> 		- [ ] Create directory for templates
+> 	- [ ] Create avatars
 > - [x] [Add Grid-Style Callouts](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/22)
 
 > [!todo] Low Priority
@@ -41,7 +44,7 @@ These features must be implemented before being able to implement a clear wiki-s
 > - [ ] [[Missing Custom Download Link Styling for MMW]]
 > - [x] Add custom website [favicon](https://www.w3schools.com/html/html_favicon.asp) (edit `/quartz/static/icon.png`)
 > - [x] [['kbd' HTML Element in Markdown|Add CSS style for keyboard input HTML element]] "\<kbd\>" to differentiate it from \`code\`
-> - [ ] set template .md files to `draft: true`
+> - [x] set template .md files to `draft: true`
 
 > [!todo] Luxuries
 >
