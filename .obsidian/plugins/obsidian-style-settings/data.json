@@ -1,8 +1,5 @@
 {
-  "ITS@@mini": false,
-  "ITS@@notion": false,
-  "ITS@@nord": false,
-  "ITS@@slrvb-b": false,
-  "ITS@@s-d": false,
-  "ITS@@t-d": true
+  "ITS@@t-d": true,
+  "ITS@@file-line-width": 800,
+  "ITS@@file-explorer-flat": false
 }
