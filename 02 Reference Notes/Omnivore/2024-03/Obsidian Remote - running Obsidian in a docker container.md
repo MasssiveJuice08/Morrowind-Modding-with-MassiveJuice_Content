@@ -1,7 +1,7 @@
 ---
 id: c435560b-0718-4f77-a11c-10ebc050e0ad
 title: |
-  'Obsidian Remote' - running Obsidian in a docker container
+  Obsidian Remote - running Obsidian in a docker container
 author: |
   sytone
 tags:
@@ -16,7 +16,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## 'Obsidian Remote' - running Obsidian in a docker container
+## Obsidian Remote - running Obsidian in a docker container
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-sytone-obsidian-remote-blob-main-readme-md-18e4eaa0585)

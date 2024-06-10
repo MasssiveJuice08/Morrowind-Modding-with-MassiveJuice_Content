@@ -1,7 +1,7 @@
 ---
 id: 7a8c2730-0e71-4915-98a4-0987a7d904e8
 title: |
-  Obsidian Grid Callouts · joschua.io
+  Obsidian Grid Callouts - joschua.io
 author: |
   unknown
 tags:
@@ -18,7 +18,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Obsidian Grid Callouts · joschua.io
+## Obsidian Grid Callouts - joschua.io
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/obsidian-grid-callouts-joschua-io-18e9c3f29f0)

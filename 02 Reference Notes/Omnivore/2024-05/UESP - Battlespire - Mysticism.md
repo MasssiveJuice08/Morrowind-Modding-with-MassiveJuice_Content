@@ -1,7 +1,7 @@
 ---
 id: 0297af01-dc05-40dd-ad1d-8dad376562d9
 title: |
-  UESP - Battlespire - 'Mysticism'
+  UESP - Battlespire - Mysticism
 author: |
   UESP
 tags:
@@ -18,7 +18,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## UESP - Battlespire - 'Mysticism'
+## UESP - Battlespire - Mysticism
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-en-m-uesp-net-wiki-battlespire-mysticism-18fae25a28a)

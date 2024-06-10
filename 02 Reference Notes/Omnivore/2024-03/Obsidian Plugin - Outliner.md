@@ -1,7 +1,7 @@
 ---
 id: f1d4f779-bc4a-4dde-9ee9-0a69b697449b
 title: |
-  Obsidian Plugin - 'Outliner'
+  Obsidian Plugin - Outliner
 author: |
   vslinko
 tags:
@@ -17,7 +17,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Obsidian Plugin - 'Outliner'
+## Obsidian Plugin - Outliner
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-vslinko-obsidian-outliner-blob-main-readme-md-18e6bed8883)

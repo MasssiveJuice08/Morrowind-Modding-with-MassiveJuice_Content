@@ -1,7 +1,7 @@
 ---
 id: 36230113-582e-4f9e-92fc-21486eb2d589
 title: |
-  Folder Styles - SlRvb's Documentation - Obsidian Publish
+  Folder Styles - SlRvbs Documentation - Obsidian Publish
 author: |
   unknown
 tags:
@@ -17,7 +17,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Folder Styles - SlRvb's Documentation - Obsidian Publish
+## Folder Styles - SlRvbs Documentation - Obsidian Publish
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/folder-styles-sl-rvb-s-documentation-obsidian-publish-18e5b7dceb8)

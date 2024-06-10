@@ -1,7 +1,7 @@
 ---
 id: 3b4df470-5f07-4b15-a16e-6b64d3d55f62
 title: |
-  Obsidian Plugin - 'Find Unlinked Files'
+  Obsidian Plugin - Find Unlinked Files
 author: |
   Vinzent03
 tags:
@@ -17,7 +17,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Obsidian Plugin - 'Find Unlinked Files'
+## Obsidian Plugin - Find Unlinked Files
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-vinzent-03-find-unlinked-files-blob-main-readme-18e6efeba91)

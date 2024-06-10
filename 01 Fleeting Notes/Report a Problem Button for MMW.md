@@ -4,6 +4,7 @@ tags:
   - MMW-Dev/Workflow
   - Quartz/UI
 dg-publish: true
+title: "'Report a Problem' Button for MMW"
 ---
 ## Use-Case for a 'Report a Problem' Button for the Morrowind Modding Wiki:
 

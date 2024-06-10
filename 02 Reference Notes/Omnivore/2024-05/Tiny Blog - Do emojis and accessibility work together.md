@@ -1,7 +1,7 @@
 ---
 id: c553b5e2-3321-435d-ae85-11b278e0fa81
 title: |
-  Tiny Blog - 'Do emojis and accessibility work together?'
+  Tiny Blog - Do emojis and accessibility work together
 author: |
   Di Mace
 tags:
@@ -18,7 +18,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Tiny Blog - 'Do emojis and accessibility work together?'
+## Tiny Blog - Do emojis and accessibility work together
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/do-emojis-and-accessibility-work-together-18fb8b42405)

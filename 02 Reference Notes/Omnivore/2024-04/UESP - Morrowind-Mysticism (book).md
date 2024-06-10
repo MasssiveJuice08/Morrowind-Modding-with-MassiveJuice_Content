@@ -1,7 +1,7 @@
 ---
 id: 232503ac-94e1-4f0a-b0d6-34c8a081cf9f
 title: |
-  UESP - Morrowind-'Mysticism' (book)
+  UESP - Morrowind-Mysticism (book)
 author: |
   UESP
 tags:
@@ -17,7 +17,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## UESP - Morrowind-'Mysticism' (book)
+## UESP - Morrowind-Mysticism (book)
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/morrowind-mysticism-book-the-unofficial-elder-scrolls-pages-uesp-18f2df39ed1)

@@ -1,7 +1,7 @@
 ---
 id: 3b6a5e9f-c781-4dfb-a8d2-eb58e6aa677a
 title: |
-  Obsidian Plugin - 'Quickadd'
+  Obsidian Plugin - Quickadd
 author: |
   chhoumann
 tags:
@@ -17,7 +17,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Obsidian Plugin - 'Quickadd'
+## Obsidian Plugin - Quickadd
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-chhoumann-quickadd-blob-master-readme-md-18e6c002d5d)

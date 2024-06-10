@@ -1,7 +1,7 @@
 ---
 id: 76395099-cbe3-4551-8a7f-aee7637cb885
 title: |
-  Obsidian Plugin - 'Various Complements'
+  Obsidian Plugin - Various Complements
 author: |
   tadashi-aikawa
 tags:
@@ -17,7 +17,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Obsidian Plugin - 'Various Complements'
+## Obsidian Plugin - Various Complements
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-tadashi-aikawa-obsidian-various-complements-plu-18e6be79455)

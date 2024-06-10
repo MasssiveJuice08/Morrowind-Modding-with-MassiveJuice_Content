@@ -1,7 +1,7 @@
 ---
 id: f7654ca9-57b9-494f-a752-94f2f8482502
 title: |
-  Obsidian Plugin - 'Supercharged Links'
+  Obsidian Plugin - Supercharged Links
 author: |
   mdelobelle
 tags:
@@ -18,7 +18,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Obsidian Plugin - 'Supercharged Links'
+## Obsidian Plugin - Supercharged Links
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-mdelobelle-obsidian-supercharged-links-blob-mas-18e7a7e0a57)

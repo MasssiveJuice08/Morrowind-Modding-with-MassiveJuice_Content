@@ -1,7 +1,7 @@
 ---
 id: cf290c9c-46b0-4a64-b701-29e1c4a03ede
 title: |
-  Obsidian Plugin - 'Copy Block Link'
+  Obsidian Plugin - Copy Block Link
 author: |
   mgmeyers
 tags:
@@ -17,7 +17,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Obsidian Plugin - 'Copy Block Link'
+## Obsidian Plugin - Copy Block Link
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-mgmeyers-obsidian-copy-block-link-blob-main-rea-18e7d1f76ac)

@@ -1,7 +1,7 @@
 ---
 id: ea8d6aa5-23e6-4c78-8d8b-8265047a1746
 title: |
-  MDN - 'border-image Property' - CSS
+  MDN - border-image Property - CSS
 author: |
   MDN
 tags:
@@ -16,11 +16,11 @@ original_url: https://omnivore.app/me/border-image-css-cascading-style-sheets-md
 state: reading
 dg-publish: true
 dg-metatags:
-  description: The border-image CSS property draws an image around a given element. It replaces the element's regular border.
+  description: The border-image property allows drawing on image around another as a border - perhaps useful for the Morrowind Modding Wiki
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## MDN - 'border-image Property' - CSS
+## MDN - border-image Property - CSS
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/border-image-css-cascading-style-sheets-mdn-18ee15ee84c)

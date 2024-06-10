@@ -1,7 +1,7 @@
 ---
 id: 93b3bfaf-af76-4aa8-ab1f-74e2b6eff84a
 title: |
-  Obsidian Plugin - 'Leaflet'
+  Obsidian Plugin - Leaflet
 author: |
   javalent
 tags:
@@ -18,7 +18,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Obsidian Plugin - 'Leaflet'
+## Obsidian Plugin - Leaflet
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-javalent-obsidian-leaflet-blob-main-readme-md-18e6f01e4d8)

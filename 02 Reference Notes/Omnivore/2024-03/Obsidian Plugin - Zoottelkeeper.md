@@ -1,7 +1,7 @@
 ---
 id: c1bd2a76-6819-457d-a269-10161439b2fc
 title: |
-  Obsidian Plugin - 'Zoottelkeeper'
+  Obsidian Plugin - Zoottelkeeper
 author: |
   akosbalasko
 tags:
@@ -17,7 +17,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Obsidian Plugin - 'Zoottelkeeper'
+## Obsidian Plugin - Zoottelkeeper
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-akosbalasko-zoottelkeeper-obsidian-plugin-blob--18e7d0aaacb)

@@ -9,12 +9,13 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 aliases:
   - N'Gasta Pasta
+title: N'Gasta Pasta - Home
 ---
 ## N'Gasta Pasta
 
 A mod for the 2023 Morrowind Summer Modjam.
 
-![[N'Gasta-Pasta_Banner.webp|banner]]
+![[NGasta-Pasta_Banner.webp|banner]]
 
 > [!quote|mark color-purple] **~ Artisa Arelas**
 > _"Someone thinks the Masque of Clavicus Vile is here on Vvardenfell._ 

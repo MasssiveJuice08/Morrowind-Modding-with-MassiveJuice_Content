@@ -1,7 +1,7 @@
 ---
 id: d5c0cb93-fc97-4f54-8ea0-f292188a616a
 title: |
-  Obsidian Plugin - 'Tag Wrangler'
+  Obsidian Plugin - Tag Wrangler
 author: |
   pjeby
 tags:
@@ -17,7 +17,7 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Obsidian Plugin - 'Tag Wrangler'
+## Obsidian Plugin - Tag Wrangler
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-pjeby-tag-wrangler-blob-master-readme-md-18e6c0ef91c)

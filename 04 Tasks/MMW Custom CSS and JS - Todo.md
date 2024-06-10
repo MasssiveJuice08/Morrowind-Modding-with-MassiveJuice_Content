@@ -43,7 +43,7 @@ These features must be implemented before being able to implement a clear wiki-s
 > 
 > - [ ] [[Missing Custom Download Link Styling for MMW]]
 > - [x] Add custom website [favicon](https://www.w3schools.com/html/html_favicon.asp) (edit `/quartz/static/icon.png`)
-> - [x] [['kbd' HTML Element in Markdown|Add CSS style for keyboard input HTML element]] "\<kbd\>" to differentiate it from \`code\`
+> - [x] [[KBD HTML Element in Markdown|Add CSS style for keyboard input HTML element]] "\<kbd\>" to differentiate it from \`code\`
 > - [x] set template .md files to `draft: true`
 
 > [!todo] Luxuries
