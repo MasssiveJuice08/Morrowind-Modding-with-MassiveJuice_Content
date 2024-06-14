@@ -15,7 +15,7 @@ site_name: GitHub
 original_url: https://omnivore.app/me/https-github-com-oleeskild-obsidian-digital-garden-issues-80-18e546c8a93
 dg-publish: true
 dg-metatags:
-  description: I would love to be able to embed videos in my notes and have them appear on my digital garden as well. Right now, it just shows ![[videofilename.mp4]] in it's place instead.
+  description: A Github Discussion in obsidian-digital-garden on how to embed youtube videos using iframe
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 

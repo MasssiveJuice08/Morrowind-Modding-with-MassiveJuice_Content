@@ -4,18 +4,28 @@ tags:
   - MMW-Policy
   - MMW-Style
 ---
-For later editing purposes, it could helpful to label those areas that you consider subjective as you have suggested. A useful way to mark these would be what Wikipedia calls ['inline-cleanup tags'](https://en.wikipedia.org/wiki/Template:Inline_cleanup_tags). If a sentence or a section is subjective and/or based on your opinion, add an empty wikilink `[[opinion]]` to the end.
 
-You can format this as superscript like so `<sup>\[[[opinion]]\]</sup>` by placing `<sup> </sup>` HTML tags around it. To make the single square brackets render, place a backslash before them like `\[  \]`. Just tested this in Quartz and it works.
+## 'Tagging Pages for Problems' page
 
-We can later create a page for `[[opinion]]` like the wikipedia page [Template:Opinion](https://en.wikipedia.org/wiki/Template:Opinion) and then those empty wikilinks you've added will link there.
+See [Wikipedia](https://en.m.wikipedia.org/wiki/Wikipedia:Tagging_pages_for_problems)
 
-**Example sentence with an inline cleanup tag**
-```
-This is my opinion <sup>\[[[opinion]]\]</sup>.
-```
-Note that you need to have a space before the last word and the first `<sup>`
+> "Tags" are often used to indicate problems. Some [Wikipedia editors](https://en.m.wikipedia.org/wiki/Wikipedia:Wikipedians "Wikipedia:Wikipedians") object to the practice of tagging instead of fixing, but there is value in pointing out an article's problems. Tagging allows editors to specialize, teaches editors and warns readers about subpar or problematic content. It is better if people solve the problems they encounter themselves, but not everyone may be able to.
 
---- 
+### To-Do:
 
-Update: you can also make the citation italicised by adding a pair of underscores: `<sup>\[_[[opinion]]_\]</sup>`
+- [ ] [[MMW Inline Cleanup Tags|Inline Cleanup Tags]]
+- [ ] Maintenance Templates
+
+---
+
+## [Article Layout Guidelines](https://morrowind-modding.github.io/MMW-Design--and--Planning/Manual-of-Style---36-Sermons-of-MMW/Article-Layout-Guidelines)
+
+---
+
+## Referencing Sources
+
+--
+
+## Glossary
+
+How to handle all these acronyms and terms? There's linking to the relevant page of course... that's how most wikis do it. Is there room for a glossary?

@@ -10,7 +10,7 @@ dg-metatags:
 
 [![Omnivore.app Logo|right wsmall](https://i.imgur.com/0YszZiM.png)](https://omnivore.app/)
 
-Some articles saved in [[Omnivore - Saving Articles for Citations in Obsidian|Omnivore]] do not render correctly in Obsidian. For example, the article [[Abbreviations — Web Accessibility Guidance project — NZ Government]] contains `<abbr>` HTML tags surrounded by `<code> </code>` tags so that it does not render the abbreviation, but Omnivore is not translating this to Markdown style \``code`\` surrounded by backticks. This causes the article highlights to render incorrectly in reading mode on Obsidian, and to break the associated web page on [my digital garden](https://morrowind-modding-with-massivejuice.vercel.app/).
+Some articles saved in [[Omnivore - Saving Articles for Citations in Obsidian|Omnivore]] do not render correctly in Obsidian. For example, the article [[Abbreviations - Web Accessibility Guidance project - NZ Government]] contains `<abbr>` HTML tags surrounded by `<code> </code>` tags so that it does not render the abbreviation, but Omnivore is not translating this to Markdown style \``code`\` surrounded by backticks. This causes the article highlights to render incorrectly in reading mode on Obsidian, and to break the associated web page on [my digital garden](https://morrowind-modding-with-massivejuice.vercel.app/).
 
 As an alternative, I have added the `#omnivore-bug` label to problematic articles and in Omnivore's Obsidian plugin have added the filter `-label:omnivore-bug` so that those articles are not synced to Obsidian. Instead, I place the articles in this folder so I can still reference these sources within my digital garden.
 
@@ -26,7 +26,7 @@ The recurring issue I have found is with HTML content within `<code> </code>` ta
 
 ### It's not all Omnivore's fault
 
-As well as articles and documents, i also save forum comments and posts, such as a [[html - What is the benefit to using -acronym- and -abbr-- - Stack Overflow|useful answer in a StackOverflow discussion]]. Code written in these is not guaranteed to be fenced with `<code>` tags, as the comment author may not need to worry about the comment system trying to render the HTML (depending on the forum).
+As well as articles and documents, i also save forum comments and posts, such as a [[HTML - What is the benefit to using Acronym and Abbreviation HTML Tags - Stack Overflow|useful answer in a StackOverflow discussion]]. Code written in these is not guaranteed to be fenced with `<code>` tags, as the comment author may not need to worry about the comment system trying to render the HTML (depending on the forum).
 
 These may also need to be manually entered.
 

@@ -10,19 +10,20 @@ dg-pinned: true
 title: Home
 ---
 
-> [!warning|txt-c ttl-c txt-s embed] Search function is currently down
-> 
-> The search function and graph view are currently not working right now, sorry! 
-> 
-> Please bear with me while I figure out how to fix it.
-
 ## Welcome! 
 
 ![[Profile_Picture.jpg|profile left htiny wtiny]]
 
 Kia ora, I'm **MassiveJuice**!
 
-I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process. I also host my blog here, [[00 MassiveJuice's Morrowind Modding Blog|MassiveJuice's Morrowind Modding Blog]]
+I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process, including:
+
+- Morrowind modmaking tips,
+- Research on developing the [[Morrowind Modding Wiki - Home|Morrowind Modding Wiki]] with S3ctor and Greatness7,
+- Morrowind-themed Dioramas,
+- Using [Obsidian.md](https://obsidian.md/) as a creative tool for knowledge management and Morrowind modding (which alongside [Obsidian Digital Garden](https://dg-docs.ole.dev/) was used to create this site).
+
+I also host my blog here, [[00 MassiveJuice's Morrowind Modding Blog|MassiveJuice's Morrowind Modding Blog]]. 
 
 ## Projects
 
@@ -34,8 +35,8 @@ I make Morrowind mods and one day I hope to actually finish one of them. You can
 > [![[SOV_02-01-24_preview_12.png|sban htiny ctr p+cct]]](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/secret-of-vilmuhn/secret-of-vilmuhn-home/)
 
 > [!cards|2]
-> **[[N-Gasta Pasta - Home|N'Gasta Pasta]]**
-> [![[NGasta-Pasta_Banner.webp|sban htiny ctr p+cct]]](<N-Gasta Pasta - Home>)
+> **[[NGasta Pasta - Home|NGasta Pasta]]**
+> ![N'Gasta Pasta Banner|sban htiny ctr p+cct](https://lh3.googleusercontent.com/drive-viewer/AKGpihZUa6leQu5jTX_2fkTUo_QCTfo-plHIs98i7rm45NKjiMsBN1Xus1SrsaPYzdvAJ5O-hmwhEN3Bf_I6EV5M9r8L6ytV1xMbUQ=s1600-rw-v1)
 > 
 > **[[00 Morrowind-Themed Dioramas|Morrowind-Themed Dioramas]]**
 > [![[Redoran-Hut_Bday_Front.jpg|sban htiny ctr p+cct]]](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/dioramas/00-morrowind-themed-dioramas/)

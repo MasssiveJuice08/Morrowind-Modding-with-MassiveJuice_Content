@@ -10,12 +10,29 @@ state:
 - [x] add template for blog post notes incorporating things from [daily note style](https://dannb.org/blog/2022/obsidian-daily-note-template/#fn:1).
 	- [x] Add 'previous/next' links to top of template, perhaps incorporating a [Dataview query](https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/21)
 
+## Inbox
+
+```dataview
+TABLE without ID file.link as "Note Title", file.mday as "Last Modified"
+FROM "01 Fleeting Notes" OR "02 Reference Notes"
+WHERE state = "inbox"
+SORT file.name asc
+```
+
 ## In-Progress Notes
 
-> [!cards|2 dataview] Fleeting Notes:
 ```dataview
 TABLE without ID file.link as "Note Title", file.mday as "Last Modified"
 FROM "01 Fleeting Notes"
 WHERE state = "in-progress"
+SORT file.name asc
+```
+
+## Omnivore In-Progress 'Reading'
+
+```dataview
+TABLE without ID file.link as "Note Title", file.mday as "Last Modified"
+FROM "02 Reference Notes"
+WHERE state = "reading"
 SORT file.name asc
 ```

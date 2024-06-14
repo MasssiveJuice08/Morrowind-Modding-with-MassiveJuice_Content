@@ -5,7 +5,6 @@ tags:
   - MMW-Dev/CSS
   - MMW-Style
 dg-publish: true
-title: "'KBD' HTML Element in Markdown"
 ---
 ## About
 
