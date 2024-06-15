@@ -6,6 +6,7 @@ tags:
   - Far-From-the-Marsh
 cssclasses: 
 dg-publish: true
+dg-pinned: true
 dg-metatags:
   description: Far From the Marsh a Morrowind mod by MassiveJuice
   og:image: https://i.imgur.com/LmCg5HX.png

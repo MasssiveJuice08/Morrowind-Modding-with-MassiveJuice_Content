@@ -14,11 +14,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Lore:A Short History of Morrowind - The Unofficial Elder Scrolls Pages (UESP)
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-en-m-uesp-net-wiki-lore-a-short-history-of-morrowind-18f93e5dfdb)
 [Read Original](https://en.m.uesp.net/wiki/Lore:A_Short_History_of_Morrowind)
+
+A Short History of Morrowind
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

@@ -17,11 +17,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Wikipedia:Did you know - Wikipedia
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-en-m-wikipedia-org-wiki-wikipedia-did-you-know-18ecc300a0f)
 [Read Original](https://en.m.wikipedia.org/wiki/Wikipedia:Did_you_know)
+
+Wikipedia - The Did You Know section showcases new or expanded articles that are selected through an informal review process. It is not a general trivia section. The choice of articles is subject to a set of criteria that are set out on this page.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

@@ -16,11 +16,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Obsidian Remote - running Obsidian in a docker container
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-sytone-obsidian-remote-blob-main-readme-md-18e4eaa0585)
 [Read Original](https://github.com/sytone/obsidian-remote/blob/main/README.md)
+
+Run Obsidian.md in a browser via a docker container.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

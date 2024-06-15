@@ -17,11 +17,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Creating a Local Deployment of Obsidian Digital Garden - Github discussion
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/local-deployment-oleeskild-obsidian-digital-garden-discussion-16-18e501c54ac)
 [Read Original](https://github.com/oleeskild/obsidian-digital-garden/discussions/160)
+
+Github discussion demonstrating how to set up a local deployment of Obsidian Digital Garden
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

@@ -4,6 +4,7 @@ tags:
   - MMW
   - MOC
 dg-publish: true
+dg-pinned: true
 dg-metatags:
   description: My personal notes on contributing to the Morrowind Modding Wiki
   og:image: https://i.imgur.com/LmCg5HX.png

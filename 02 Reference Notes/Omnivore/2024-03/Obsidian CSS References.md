@@ -17,11 +17,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Obsidian CSS References
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-docs-dev-0-sh-tools-obsidian-css-snippets-18e58b5812a)
 [Read Original](https://docs.dev0.sh/tools/obsidian/css-snippets/)
+
+This is a collection of various CSS snippets for Obsidian, made mostly by me but I also include several made by others as reference and to make sharing easier.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

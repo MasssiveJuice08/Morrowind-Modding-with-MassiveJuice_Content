@@ -18,11 +18,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Morrowind:Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/morrowind-progress-of-truth-the-unofficial-elder-scrolls-pages-u-18f2e040c86)
 [Read Original](https://en.uesp.net/wiki/Morrowind:Progress_of_Truth)
+
+The UESPWiki – Your source for The Elder Scrolls since 1995
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

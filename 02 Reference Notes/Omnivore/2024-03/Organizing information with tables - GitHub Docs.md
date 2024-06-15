@@ -16,11 +16,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Organizing information with tables - GitHub Docs
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-docs-github-com-en-get-started-writing-on-github-working-w-18e4588872d)
 [Read Original](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+You can build tables to organize information in comments, issues, pull requests, and wikis.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

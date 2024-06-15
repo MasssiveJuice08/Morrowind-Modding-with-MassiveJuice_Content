@@ -16,11 +16,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Cultures of Argonia
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/u-074-cea-4-b-a-5-c-5-4-e-65-9-b-3-d-2-cac-27272-d-50-culturesof-18f6183e662)
 [Read Original](https://omnivore.app/attachments/u/074cea4b-a5c5-4e65-9b3d-2cac27272d50/CulturesofArgonia.pdf)
+
+Notes on Tamriel Rebuilt and Project Tamriel's development of Black Marsh
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

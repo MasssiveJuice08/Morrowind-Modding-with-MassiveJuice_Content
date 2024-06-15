@@ -18,11 +18,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Charts Documentation - Charts Plugin
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-charts-phib-ro-meta-charts-charts-documentation-18e6ef80aa5)
 [Read Original](https://charts.phib.ro/Meta/Charts/Charts+Documentation)
+
+Charts Documentation - Charts Plugin
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

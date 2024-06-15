@@ -17,11 +17,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Creating a docs site with Bulma Clean Theme | Bulma Clean Theme
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-www-csrhymes-com-bulma-clean-theme-2020-05-08-creating-a-d-18e4bd46ccc)
 [Read Original](https://www.csrhymes.com/bulma-clean-theme/2020/05/08/creating-a-docs-site-with-bulma-clean-theme/)
+
+How to create a docs site for your project with Bulma Clean Theme
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

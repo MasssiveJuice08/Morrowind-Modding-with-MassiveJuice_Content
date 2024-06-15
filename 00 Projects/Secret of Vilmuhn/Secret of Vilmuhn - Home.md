@@ -1,6 +1,7 @@
 ---
 state: completed
 dg-publish: true
+dg-pinned: true
 tags:
   - MOC
   - Secret-of-Vilmuhn

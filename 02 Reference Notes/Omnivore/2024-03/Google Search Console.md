@@ -16,11 +16,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Google Search Console
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-search-google-com-search-console-about-18e8d839007)
 [Read Original](https://search.google.com/search-console/about)
+
+
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

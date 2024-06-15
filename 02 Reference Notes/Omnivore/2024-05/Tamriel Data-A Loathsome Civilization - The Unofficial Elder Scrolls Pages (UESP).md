@@ -18,11 +18,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Tamriel Data:A Loathsome Civilization - The Unofficial Elder Scrolls Pages (UESP)
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-en-m-uesp-net-wiki-tamriel-data-a-loathsome-civilization-18f6ef97869)
 [Read Original](https://en.m.uesp.net/wiki/Tamriel_Data:A_Loathsome_Civilization)
+
+A Loathsome Civilization
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

@@ -55,4 +55,4 @@ These features must be implemented before being able to implement a clear wiki-s
 > - [ ] [Add 'Img-Comparison-Slider'](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/21)
 > - [ ] [[SMOOTH Image Zoom on Hover Effects with CSS]] - homepage topic cards for each subject (e.g., 'Guides', 'Modding Tools')
 
-- [ ] add  `git remote add quartz https://github.com/jackyzha0/quartz.git`
+- [x] add  `git remote add quartz https://github.com/jackyzha0/quartz.git`

@@ -17,11 +17,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Folder Styles - SlRvbs Documentation - Obsidian Publish
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/folder-styles-sl-rvb-s-documentation-obsidian-publish-18e5b7dceb8)
 [Read Original](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Folder+Styles)
+
+ITS Theme - SlRvb's Documentation - Powered by Obsidian Publish.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

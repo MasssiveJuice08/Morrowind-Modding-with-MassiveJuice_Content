@@ -17,11 +17,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Obsidian Plugin - Various Complements
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-tadashi-aikawa-obsidian-various-complements-plu-18e6be79455)
 [Read Original](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/blob/main/README.md)
+
+This plugin for Obsidian enables you complete words like the auto-completion of IDE.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

@@ -17,11 +17,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## HTML Favicon
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/html-favicon-18e88c5cc0d)
 [Read Original](https://www.w3schools.com/html/html_favicon.asp)
+
+Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

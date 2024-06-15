@@ -16,11 +16,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Quartz - HardLineBreaks Plugin
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-quartz-jzhao-xyz-plugins-hard-line-breaks-18fb1c94605)
 [Read Original](https://quartz.jzhao.xyz/plugins/HardLineBreaks)
+
+Details of the HardLineBreaks Quartz plugin which can be enabled to make Quartz render linebreaks like Obsidian.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

@@ -17,11 +17,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Practically Paperless with Obsidian - Tags in Theory and Tags in Practice
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-jamierubin-net-2022-03-08-practically-paperless-with-obsid-18e85a49939)
 [Read Original](https://jamierubin.net/2022/03/08/practically-paperless-with-obsidian-episode-21-tags-in-theory-and-tags-in-practice-and-never-the-twain-shall-meet/)
+
+A dissection of the subject of using tags for organising digital notes
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

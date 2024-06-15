@@ -15,11 +15,16 @@ dg-metatags:
   og:image: https://i.imgur.com/LmCg5HX.png
 ---
 
-## Technical Writing 101: The Ultimate Guide to Technical Writing | by Brian Mathenge | Medium
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-medium-com-brian-639-technical-writing-101-the-ultimate-gu-1900fdde322)
 [Read Original](https://medium.com/@brian639/technical-writing-101-the-ultimate-guide-to-technical-writing-e1cbc9ea8c10)
+
+Technical writing is writing about a particular subject requiring direction, instruction, explanation or clarification. It is a method of communication used by experts and professionals to convey…
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 
