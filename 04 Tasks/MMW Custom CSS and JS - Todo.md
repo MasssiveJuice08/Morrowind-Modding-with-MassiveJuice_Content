@@ -18,17 +18,18 @@ These features must be implemented before being able to implement a clear wiki-s
 > - [x] Fix `[!figure]` Callout
 > 	- [x] reduce font size
 >     - [x] ability to align on page with text wrapping around it
-> - [ ] redo image caption callouts
+> - [x] redo image caption callouts
 > - [ ] [Remove Styling from Transclusions](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/47)
 
 > [!todo] Medium Priority
 > 
 > - [x] [Create Maintenance Template Callouts](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/26)
-> 	- [ ] Create templates
-> 		- [ ] Create directory for templates
-> 	- [ ] Create avatars
+> 	- [x] Create templates
+> 		- [x] Create directory for templates
+> 	- [x] Create avatars
 > - [x] [Add Grid-Style Callouts](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/22)
-> 	- [ ] Redo grid-style callouts 
+> 	- [x] Redo grid-style callouts 
+> - [ ] hide templates from explorer
 
 > [!todo] Low Priority
 
@@ -44,7 +45,7 @@ These features must be implemented before being able to implement a clear wiki-s
 
 > [!todo] Important
 > 
-> - [ ] [[Missing Custom Download Link Styling for MMW]]
+> - [x] [[Missing Custom Download Link Styling for MMW]]
 > - [x] Add custom website [favicon](https://www.w3schools.com/html/html_favicon.asp) (edit `/quartz/static/icon.png`)
 > - [x] [[KBD HTML Element in Markdown|Add CSS style for keyboard input HTML element]] "\<kbd\>" to differentiate it from \`code\`
 > - [x] set template .md files to `draft: true`
@@ -56,3 +57,4 @@ These features must be implemented before being able to implement a clear wiki-s
 > - [ ] [[SMOOTH Image Zoom on Hover Effects with CSS]] - homepage topic cards for each subject (e.g., 'Guides', 'Modding Tools')
 
 - [x] add  `git remote add quartz https://github.com/jackyzha0/quartz.git`
+

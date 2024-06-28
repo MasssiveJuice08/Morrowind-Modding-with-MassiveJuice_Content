@@ -97,3 +97,12 @@ You may have seen them before while trawling a wiki article – they look like t
 
 - https://www.markdownguide.org/hacks/#line-breaks-within-table-cells
 - https://www.markdownguide.org/hacks/#lists-within-table-cells
+
+## Investigate Further:
+- [Adding titles to links](https://www.markdownguide.org/basic-syntax/#adding-titles "Markdown Guide")
+- [Reference Style Links][1]
+
+---
+
+## External Links 
+- [1]: <https://www.markdownguide.org/basic-syntax/#reference-style-links> "Markdown Guide - Basic Syntax#Reference-Style-Links"

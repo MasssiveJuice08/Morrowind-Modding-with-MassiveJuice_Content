@@ -13,7 +13,7 @@ state:
 	- [ ] Remove duplicate title 
 	- [ ] add `{{description}}`: make it more obvious this is someone else's content I have annotated
 - [ ] Onnivore - do colored highlights work now?
-- [ ] 
+- [ ] Article on using CS with MO2
 
 ## Inbox
 

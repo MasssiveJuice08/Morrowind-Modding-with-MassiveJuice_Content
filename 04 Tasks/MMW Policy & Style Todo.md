@@ -14,7 +14,8 @@ See [Wikipedia](https://en.m.wikipedia.org/wiki/Wikipedia:Tagging_pages_for_prob
 ### To-Do:
 
 - [ ] [[MMW Inline Cleanup Tags|Inline Cleanup Tags]]
-- [ ] Maintenance Templates
+- [x] Maintenance Templates
+- [ ] hide 'Templates' folder from [Explorer](https://quartz.jzhao.xyz/features/explorer)
 
 ---
 
@@ -29,3 +30,12 @@ See [Wikipedia](https://en.m.wikipedia.org/wiki/Wikipedia:Tagging_pages_for_prob
 ## Glossary
 
 How to handle all these acronyms and terms? There's linking to the relevant page of course... that's how most wikis do it. Is there room for a glossary?
+
+---
+
+## Editing and Ownership Permissions:
+
+- forking is an extra hurdle to contributing
+- Adding too many 'owners' to the github organization presents a security risk
+- Guidelines for becoming an owner
+- Can we utilize Github Teams roles to make it easier for contributers, whilst maintaining the security of the repo and the organization as a whole?

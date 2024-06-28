@@ -36,7 +36,7 @@ I also host my blog here, [[00 MassiveJuice's Morrowind Modding Blog|MassiveJuic
 
 > [!cards|2]
 > **[[NGasta Pasta - Home|NGasta Pasta]]**
-> ![N'Gasta Pasta Banner|sban htiny ctr p+cct](https://lh3.googleusercontent.com/drive-viewer/AKGpihZUa6leQu5jTX_2fkTUo_QCTfo-plHIs98i7rm45NKjiMsBN1Xus1SrsaPYzdvAJ5O-hmwhEN3Bf_I6EV5M9r8L6ytV1xMbUQ=s1600-rw-v1)
+> [![N'Gasta Pasta Banner|sban htiny ctr p+cct](https://lh3.googleusercontent.com/drive-viewer/AKGpihZUa6leQu5jTX_2fkTUo_QCTfo-plHIs98i7rm45NKjiMsBN1Xus1SrsaPYzdvAJ5O-hmwhEN3Bf_I6EV5M9r8L6ytV1xMbUQ=s1600-rw-v1)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/n-gasta-pasta/n-gasta-pasta-home/)
 > 
 > **[[00 Morrowind-Themed Dioramas|Morrowind-Themed Dioramas]]**
 > [![[Redoran-Hut_Bday_Front.jpg|sban htiny ctr p+cct]]](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/dioramas/00-morrowind-themed-dioramas/)
