@@ -20,9 +20,9 @@ tags:
 	- [ ] utilize Jacey's Vector Icons or create my own.
 - [x] Fix mobile page-width
 - [ ] integrate github commits widget
-- [ ] fix search
-- [ ] fix graph
+- [x] fix search
+- [x] fix graph
 - [ ] make link to 'Home' stylized - bigger text?
 - [ ] Fix CSS for dataview table cards
-- [ ] Fix `<ul>` in footer so list-style is 'none' (no bullet points)
-- [ ] 
+- [x] Fix `<ul>` in footer so list-style is 'none' (no bullet points)
+- [/] Set up local build of Digital Garden

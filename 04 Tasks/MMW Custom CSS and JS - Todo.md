@@ -29,7 +29,7 @@ These features must be implemented before being able to implement a clear wiki-s
 > 	- [x] Create avatars
 > - [x] [Add Grid-Style Callouts](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/22)
 > 	- [x] Redo grid-style callouts 
-> - [ ] hide templates from explorer
+> - [x] hide templates from explorer
 
 > [!todo] Low Priority
 

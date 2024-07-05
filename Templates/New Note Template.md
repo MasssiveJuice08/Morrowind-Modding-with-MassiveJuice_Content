@@ -2,7 +2,7 @@
 title: 
 aliases: 
 tags: 
-state: 
+state: inbox
 cssclasses: 
 Image: 
 dg-publish: 

@@ -13,9 +13,9 @@ See [Wikipedia](https://en.m.wikipedia.org/wiki/Wikipedia:Tagging_pages_for_prob
 
 ### To-Do:
 
-- [ ] [[MMW Inline Cleanup Tags|Inline Cleanup Tags]]
+- [x] [[MMW Inline Cleanup Tags|Inline Cleanup Tags]]
 - [x] Maintenance Templates
-- [ ] hide 'Templates' folder from [Explorer](https://quartz.jzhao.xyz/features/explorer)
+- [x] hide 'Templates' folder from [Explorer](https://quartz.jzhao.xyz/features/explorer)
 
 ---
 
@@ -39,3 +39,15 @@ How to handle all these acronyms and terms? There's linking to the relevant page
 - Adding too many 'owners' to the github organization presents a security risk
 - Guidelines for becoming an owner
 - Can we utilize Github Teams roles to make it easier for contributers, whilst maintaining the security of the repo and the organization as a whole?
+
+--- 
+
+## Disambiguation Pages
+
+Investigate how Wikipedia uses these. This may become a useful tool once there is significantly more wiki content.
+
+---
+
+## Infobox vs Navbox
+
+Consider creating clear distinction between Infoboxes and [Navboxes](https://en.wikipedia.org/wiki/Wikipedia:Navigation_template)
