@@ -70,11 +70,22 @@ The content of these elements, when attention is drawn to them, should serve to 
 
 ### Links
 
+A link text should explain clearly what information the reader will get by clicking on that link.[^2]
+
 Links serve to give readers a sense of what a section of text is about and can be written in such a way as to enhance the Spotted Pattern style.
 
 Ensure at least some of a link highlights a relevant point to the paragraph as a whole. For example:
-- ...
+
+> [!columns|2 no-t flex]
+> > [!quote] UESP, ['Morrowind:Canctunian Ponius'](https://en.uesp.net/wiki/Morrowind:Canctunian_Ponius)
+> > _"Aside from his natural [charm](https://en.uesp.net/wiki/Morrowind:Voice_of_the_Emperor "Morrowind:Voice of the Emperor") and ability to [absorb fatigue from others](https://en.uesp.net/wiki/Morrowind:Star_of_the_West "Morrowind:Star of the West"), he knows no spells."_
+> 
+> > [!note|clean no-t]
+> > - The link to the power 'Star of the West' is aliased as "ability to [absorb fatigue from others](https://en.uesp.net/wiki/Morrowind:Star_of_the_West "Morrowind:Star of the West")"
+
+
 
 ### Something big, something medium, something small
 
-[^1]: [TinyMCE, 'A guide to effective page layout design', accessed 2024-07-01](https://www.tiny.cloud/blog/effective-page-layout-design/)
+[^1]: TinyMCE, _['A guide to effective page layout design'](https://www.tiny.cloud/blog/effective-page-layout-design/)_, accessed 2024-07-01
+[^2]: W3Schools, _['HTML Accessibility'](https://www.w3schools.com/html/html_accessibility.asp)_, accessed 2024-07-09

@@ -19,7 +19,7 @@ These features must be implemented before being able to implement a clear wiki-s
 > 	- [x] reduce font size
 >     - [x] ability to align on page with text wrapping around it
 > - [x] redo image caption callouts
-> - [ ] [Remove Styling from Transclusions](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/47)
+> - [x] [Remove Styling from Transclusions](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/47)
 
 > [!todo] Medium Priority
 > 
@@ -30,6 +30,8 @@ These features must be implemented before being able to implement a clear wiki-s
 > - [x] [Add Grid-Style Callouts](https://github.com/morrowind-modding/morrowind-modding.github.io/issues/22)
 > 	- [x] Redo grid-style callouts 
 > - [x] hide templates from explorer
+> - [ ] Consider redesigning logo so that the text is actually H1 text, with the puzzlebox in the background as image
+> - [ ] Add Recent Notes component, OR, add Dataview tables
 
 > [!todo] Low Priority
 
