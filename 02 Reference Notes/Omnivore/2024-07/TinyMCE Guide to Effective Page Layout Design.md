@@ -7,7 +7,7 @@ author: |
 tags:
   - MMW-Style
 date_saved: 2024-07-01 18:20:45
-site_name: Blog by TinyMCE
+site_name: Blog by Tiny
 original_url: https://omnivore.app/me/https-www-tiny-cloud-blog-effective-page-layout-design-1906cf3e258
 state: reading
 dg-publish: true

@@ -54,7 +54,7 @@ Investigate how Wikipedia uses these. This may become a useful tool once there i
 - [ ] Add analytics
 - [ ] add trending/featured/completed articles (present users with content up-front)
 - [x] check if logo has alt text
-- [ ] Register for Google Search Console
-- [ ] Redesign homepage to increase click-through rate
+- [x] Register for Google Search Console
+- [x] Redesign homepage to increase click-through rate
 
 ## Copyright and License
