@@ -26,7 +26,7 @@ The recurring issue I have found is with HTML content within `<code> </code>` ta
 
 ### It's not all Omnivore's fault
 
-As well as articles and documents, i also save forum comments and posts, such as a [[HTML - What is the benefit to using Acronym and Abbreviation HTML Tags - Stack Overflow|useful answer in a StackOverflow discussion]]. Code written in these is not guaranteed to be fenced with `<code>` tags, as the comment author may not need to worry about the comment system trying to render the HTML (depending on the forum).
+As well as articles and documents, i also save forum comments and posts, such as a [[Benefit to using Acronym and Abbreviation HTML Tags - Stack Overflow|useful answer in a StackOverflow discussion]]. Code written in these is not guaranteed to be fenced with `<code>` tags, as the comment author may not need to worry about the comment system trying to render the HTML (depending on the forum).
 
 These may also need to be manually entered.
 
